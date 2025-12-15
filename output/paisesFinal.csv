@@ -1,0 +1,625 @@
+countrynewwb,codewb,year,pop_adult,regionwb24_hi,incomegroupwb24,account_t_d,capital_api,region_api,subregion_api,flag_url,local_flag_path
+Afghanistan,AFG,2011,14575546.0,South Asia (excluding high income),Low income,0.09,Kabul,Asia,Southern Asia,https://flagcdn.com/w320/af.png,..\output\imagenes_procesadas\af.jpg
+Albania,ALB,2011,2281010.0,Europe & Central Asia (excluding high income),Upper middle income,0.28,Tirana,Europe,Southern Europe,https://flagcdn.com/w320/al.png,..\output\imagenes_procesadas\al.jpg
+Algeria,DZA,2011,26251587.0,Middle East & North Africa (excluding high income),Lower middle income,0.33,Algiers,Africa,Northern Africa,https://flagcdn.com/w320/dz.png,..\output\imagenes_procesadas\dz.jpg
+Angola,AGO,2011,12779501.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.39,Luanda,Africa,Middle Africa,https://flagcdn.com/w320/ao.png,..\output\imagenes_procesadas\ao.jpg
+Argentina,ARG,2011,30685516.0,Latin America & Caribbean (excluding high income),Upper middle income,0.33,Buenos Aires,Americas,South America,https://flagcdn.com/w320/ar.png,..\output\imagenes_procesadas\ar.jpg
+Armenia,ARM,2011,2457011.0,Europe & Central Asia (excluding high income),Upper middle income,0.17,Yerevan,Asia,Western Asia,https://flagcdn.com/w320/am.png,..\output\imagenes_procesadas\am.jpg
+Australia,AUS,2011,17830548.0,High income,High income,0.99,Canberra,Oceania,Australia and New Zealand,https://flagcdn.com/w320/au.png,..\output\imagenes_procesadas\au.jpg
+Austria,AUT,2011,7123870.0,High income,High income,0.97,Vienna,Europe,Central Europe,https://flagcdn.com/w320/at.png,..\output\imagenes_procesadas\at.jpg
+Azerbaijan,AZE,2011,7034188.0,Europe & Central Asia (excluding high income),Upper middle income,0.15,Baku,Asia,Western Asia,https://flagcdn.com/w320/az.png,..\output\imagenes_procesadas\az.jpg
+Bahrain,BHR,2011,978145.0,High income,High income,0.65,Manama,Asia,Western Asia,https://flagcdn.com/w320/bh.png,..\output\imagenes_procesadas\bh.jpg
+Bangladesh,BGD,2011,100376575.0,South Asia (excluding high income),Lower middle income,0.32,Dhaka,Asia,Southern Asia,https://flagcdn.com/w320/bd.png,..\output\imagenes_procesadas\bd.jpg
+Belarus,BLR,2011,8075665.0,Europe & Central Asia (excluding high income),Upper middle income,0.59,Minsk,Europe,Eastern Europe,https://flagcdn.com/w320/by.png,..\output\imagenes_procesadas\by.jpg
+Belgium,BEL,2011,9049843.0,High income,High income,0.96,Brussels,Europe,Western Europe,https://flagcdn.com/w320/be.png,..\output\imagenes_procesadas\be.jpg
+Benin,BEN,2011,5496491.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.1,Porto-Novo,Africa,Western Africa,https://flagcdn.com/w320/bj.png,..\output\imagenes_procesadas\bj.jpg
+Bolivia,BOL,2011,6675907.0,Latin America & Caribbean (excluding high income),Lower middle income,0.28,Sucre,Americas,South America,https://flagcdn.com/w320/bo.png,..\output\imagenes_procesadas\bo.jpg
+Bosnia and Herzegovina,BIH,2011,3217823.0,Europe & Central Asia (excluding high income),Upper middle income,0.56,Sarajevo,Europe,Southern Europe,https://flagcdn.com/w320/ba.png,..\output\imagenes_procesadas\ba.jpg
+Botswana,BWA,2011,1340324.0,Sub-Saharan Africa (excluding high income),Upper middle income,0.3,Gaborone,Africa,Southern Africa,https://flagcdn.com/w320/bw.png,..\output\imagenes_procesadas\bw.jpg
+Brazil,BRA,2011,145842533.0,Latin America & Caribbean (excluding high income),Upper middle income,0.56,Brasília,Americas,South America,https://flagcdn.com/w320/br.png,..\output\imagenes_procesadas\br.jpg
+Bulgaria,BGR,2011,6400381.0,Europe & Central Asia (excluding high income),Upper middle income,0.53,Sofia,Europe,Eastern Europe,https://flagcdn.com/w320/bg.png,..\output\imagenes_procesadas\bg.jpg
+Burkina Faso,BFA,2011,8802362.0,Sub-Saharan Africa (excluding high income),Low income,0.13,Ouagadougou,Africa,Western Africa,https://flagcdn.com/w320/bf.png,..\output\imagenes_procesadas\bf.jpg
+Burundi,BDI,2011,5147947.0,Sub-Saharan Africa (excluding high income),Low income,0.07,Gitega,Africa,Eastern Africa,https://flagcdn.com/w320/bi.png,..\output\imagenes_procesadas\bi.jpg
+Cambodia,KHM,2011,9675871.0,East Asia & Pacific (excluding high income),Lower middle income,0.04,Phnom Penh,Asia,South-Eastern Asia,https://flagcdn.com/w320/kh.png,..\output\imagenes_procesadas\kh.jpg
+Cameroon,CMR,2011,11072780.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.15,Yaoundé,Africa,Middle Africa,https://flagcdn.com/w320/cm.png,..\output\imagenes_procesadas\cm.jpg
+Canada,CAN,2011,28373521.0,High income,High income,0.96,Ottawa,Americas,Northern America,https://flagcdn.com/w320/ca.png,..\output\imagenes_procesadas\ca.jpg
+Central African Republic,CAF,2011,2428582.0,Sub-Saharan Africa (excluding high income),Low income,0.03,Bangui,Africa,Middle Africa,https://flagcdn.com/w320/cf.png,..\output\imagenes_procesadas\cf.jpg
+Chad,TCD,2011,6309105.0,Sub-Saharan Africa (excluding high income),Low income,0.09,N'Djamena,Africa,Middle Africa,https://flagcdn.com/w320/td.png,..\output\imagenes_procesadas\td.jpg
+Chile,CHL,2011,13480066.0,High income,High income,0.42,Santiago,Americas,South America,https://flagcdn.com/w320/cl.png,..\output\imagenes_procesadas\cl.jpg
+China,CHN,2011,1090576711.0,East Asia & Pacific (excluding high income),Upper middle income,0.64,Beijing,Asia,Eastern Asia,https://flagcdn.com/w320/cn.png,..\output\imagenes_procesadas\cn.jpg
+Colombia,COL,2011,32481705.0,Latin America & Caribbean (excluding high income),Upper middle income,0.3,Bogotá,Americas,South America,https://flagcdn.com/w320/co.png,..\output\imagenes_procesadas\co.jpg
+Comoros,COM,2011,382348.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.22,Moroni,Africa,Eastern Africa,https://flagcdn.com/w320/km.png,..\output\imagenes_procesadas\km.jpg
+Costa Rica,CRI,2011,3423771.0,Latin America & Caribbean (excluding high income),Upper middle income,0.5,San José,Americas,Central America,https://flagcdn.com/w320/cr.png,..\output\imagenes_procesadas\cr.jpg
+Croatia,HRV,2011,3638504.0,High income,High income,0.88,Zagreb,Europe,Southern Europe,https://flagcdn.com/w320/hr.png,..\output\imagenes_procesadas\hr.jpg
+Cyprus,CYP,2011,936237.0,High income,High income,0.85,Nicosia,Europe,Southern Europe,https://flagcdn.com/w320/cy.png,..\output\imagenes_procesadas\cy.jpg
+Denmark,DNK,2011,4549535.0,High income,High income,1.0,Copenhagen,Europe,Northern Europe,https://flagcdn.com/w320/dk.png,..\output\imagenes_procesadas\dk.jpg
+Djibouti,DJI,2011,591971.0,Middle East & North Africa (excluding high income),Lower middle income,0.12,Djibouti,Africa,Eastern Africa,https://flagcdn.com/w320/dj.png,..\output\imagenes_procesadas\dj.jpg
+Dominican Republic,DOM,2011,6788648.0,Latin America & Caribbean (excluding high income),Upper middle income,0.38,Santo Domingo,Americas,Caribbean,https://flagcdn.com/w320/do.png,..\output\imagenes_procesadas\do.jpg
+Ecuador,ECU,2011,10352753.0,Latin America & Caribbean (excluding high income),Upper middle income,0.37,Quito,Americas,South America,https://flagcdn.com/w320/ec.png,..\output\imagenes_procesadas\ec.jpg
+El Salvador,SLV,2011,4126198.0,Latin America & Caribbean (excluding high income),Lower middle income,0.14,San Salvador,Americas,Central America,https://flagcdn.com/w320/sv.png,..\output\imagenes_procesadas\sv.jpg
+Estonia,EST,2011,1128611.0,High income,High income,0.97,Tallinn,Europe,Northern Europe,https://flagcdn.com/w320/ee.png,..\output\imagenes_procesadas\ee.jpg
+Finland,FIN,2011,4475337.0,High income,High income,1.0,Helsinki,Europe,Northern Europe,https://flagcdn.com/w320/fi.png,..\output\imagenes_procesadas\fi.jpg
+France,FRA,2011,52976120.0,High income,High income,0.97,Paris,Europe,Western Europe,https://flagcdn.com/w320/fr.png,..\output\imagenes_procesadas\fr.jpg
+Gabon,GAB,2011,1077711.0,Sub-Saharan Africa (excluding high income),Upper middle income,0.19,Libreville,Africa,Middle Africa,https://flagcdn.com/w320/ga.png,..\output\imagenes_procesadas\ga.jpg
+Georgia,GEO,2011,3084171.0,Europe & Central Asia (excluding high income),Upper middle income,0.33,Tbilisi,Asia,Western Asia,https://flagcdn.com/w320/ge.png,..\output\imagenes_procesadas\ge.jpg
+Germany,DEU,2011,70576834.0,High income,High income,0.98,Berlin,Europe,Central Europe,https://flagcdn.com/w320/de.png,..\output\imagenes_procesadas\de.jpg
+Ghana,GHA,2011,15512209.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.29,Accra,Africa,Western Africa,https://flagcdn.com/w320/gh.png,..\output\imagenes_procesadas\gh.jpg
+Greece,GRC,2011,9493929.0,High income,High income,0.78,Athens,Europe,Southern Europe,https://flagcdn.com/w320/gr.png,..\output\imagenes_procesadas\gr.jpg
+Guatemala,GTM,2011,8804525.0,Latin America & Caribbean (excluding high income),Upper middle income,0.22,Guatemala City,Americas,Central America,https://flagcdn.com/w320/gt.png,..\output\imagenes_procesadas\gt.jpg
+Guinea,GIN,2011,5771983.0,Sub-Saharan Africa (excluding high income),Low income,0.04,Conakry,Africa,Western Africa,https://flagcdn.com/w320/gn.png,..\output\imagenes_procesadas\gn.jpg
+Haiti,HTI,2011,6250015.0,Latin America & Caribbean (excluding high income),Lower middle income,0.22,Port-au-Prince,Americas,Caribbean,https://flagcdn.com/w320/ht.png,..\output\imagenes_procesadas\ht.jpg
+Honduras,HND,2011,5181064.0,Latin America & Caribbean (excluding high income),Lower middle income,0.21,Tegucigalpa,Americas,Central America,https://flagcdn.com/w320/hn.png,..\output\imagenes_procesadas\hn.jpg
+Hungary,HUN,2011,8529919.0,High income,High income,0.73,Budapest,Europe,Central Europe,https://flagcdn.com/w320/hu.png,..\output\imagenes_procesadas\hu.jpg
+India,IND,2011,853745004.0,South Asia (excluding high income),Lower middle income,0.35,New Delhi,Asia,Southern Asia,https://flagcdn.com/w320/in.png,..\output\imagenes_procesadas\in.jpg
+Indonesia,IDN,2011,177530453.0,East Asia & Pacific (excluding high income),Lower middle income,0.2,Jakarta,Asia,South-Eastern Asia,https://flagcdn.com/w320/id.png,..\output\imagenes_procesadas\id.jpg
+Iraq,IRQ,2011,18241367.0,Middle East & North Africa (excluding high income),Upper middle income,0.11,Baghdad,Asia,Western Asia,https://flagcdn.com/w320/iq.png,..\output\imagenes_procesadas\iq.jpg
+Ireland,IRL,2011,3598499.0,High income,High income,0.94,Dublin,Europe,Northern Europe,https://flagcdn.com/w320/ie.png,..\output\imagenes_procesadas\ie.jpg
+Israel,ISR,2011,5491153.0,High income,High income,0.9,Jerusalem,Asia,Western Asia,https://flagcdn.com/w320/il.png,..\output\imagenes_procesadas\il.jpg
+Italy,ITA,2011,50957209.0,High income,High income,0.71,Rome,Europe,Southern Europe,https://flagcdn.com/w320/it.png,..\output\imagenes_procesadas\it.jpg
+Jamaica,JAM,2011,2007871.0,Latin America & Caribbean (excluding high income),Upper middle income,0.71,Kingston,Americas,Caribbean,https://flagcdn.com/w320/jm.png,..\output\imagenes_procesadas\jm.jpg
+Japan,JPN,2011,110945852.0,High income,High income,0.96,Tokyo,Asia,Eastern Asia,https://flagcdn.com/w320/jp.png,..\output\imagenes_procesadas\jp.jpg
+Jordan,JOR,2011,4670454.0,Middle East & North Africa (excluding high income),Upper middle income,0.25,Amman,Asia,Western Asia,https://flagcdn.com/w320/jo.png,..\output\imagenes_procesadas\jo.jpg
+Kazakhstan,KAZ,2011,12564991.0,Europe & Central Asia (excluding high income),Upper middle income,0.42,Astana,Asia,Central Asia,https://flagcdn.com/w320/kz.png,..\output\imagenes_procesadas\kz.jpg
+Kenya,KEN,2011,23450849.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.42,Nairobi,Africa,Eastern Africa,https://flagcdn.com/w320/ke.png,..\output\imagenes_procesadas\ke.jpg
+Kosovo,XKX,2011,1287712.0,Europe & Central Asia (excluding high income),Upper middle income,0.44,Pristina,Europe,Eastern Europe,https://flagcdn.com/w320/xk.png,..\output\imagenes_procesadas\xk.jpg
+Kuwait,KWT,2011,2266476.0,High income,High income,0.87,Kuwait City,Asia,Western Asia,https://flagcdn.com/w320/kw.png,..\output\imagenes_procesadas\kw.jpg
+Latvia,LVA,2011,1800178.0,High income,High income,0.9,Riga,Europe,Northern Europe,https://flagcdn.com/w320/lv.png,..\output\imagenes_procesadas\lv.jpg
+Lebanon,LBN,2011,3709897.0,Middle East & North Africa (excluding high income),Lower middle income,0.37,Beirut,Asia,Western Asia,https://flagcdn.com/w320/lb.png,..\output\imagenes_procesadas\lb.jpg
+Lesotho,LSO,2011,1266790.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.18,Maseru,Africa,Southern Africa,https://flagcdn.com/w320/ls.png,..\output\imagenes_procesadas\ls.jpg
+Liberia,LBR,2011,2309936.0,Sub-Saharan Africa (excluding high income),Low income,0.19,Monrovia,Africa,Western Africa,https://flagcdn.com/w320/lr.png,..\output\imagenes_procesadas\lr.jpg
+Lithuania,LTU,2011,2635099.0,High income,High income,0.74,Vilnius,Europe,Northern Europe,https://flagcdn.com/w320/lt.png,..\output\imagenes_procesadas\lt.jpg
+Luxembourg,LUX,2011,417441.0,High income,High income,0.95,Luxembourg,Europe,Western Europe,https://flagcdn.com/w320/lu.png,..\output\imagenes_procesadas\lu.jpg
+Madagascar,MDG,2011,12419251.0,Sub-Saharan Africa (excluding high income),Low income,0.06,Antananarivo,Africa,Eastern Africa,https://flagcdn.com/w320/mg.png,..\output\imagenes_procesadas\mg.jpg
+Malawi,MWI,2011,7972899.0,Sub-Saharan Africa (excluding high income),Low income,0.17,Lilongwe,Africa,Eastern Africa,https://flagcdn.com/w320/mw.png,..\output\imagenes_procesadas\mw.jpg
+Malaysia,MYS,2011,20649116.0,East Asia & Pacific (excluding high income),Upper middle income,0.66,Kuala Lumpur,Asia,South-Eastern Asia,https://flagcdn.com/w320/my.png,..\output\imagenes_procesadas\my.jpg
+Mali,MLI,2011,8429981.0,Sub-Saharan Africa (excluding high income),Low income,0.08,Bamako,Africa,Western Africa,https://flagcdn.com/w320/ml.png,..\output\imagenes_procesadas\ml.jpg
+Malta,MLT,2011,351508.0,High income,High income,0.95,Valletta,Europe,Southern Europe,https://flagcdn.com/w320/mt.png,..\output\imagenes_procesadas\mt.jpg
+Mauritania,MRT,2011,1903527.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.17,Nouakchott,Africa,Western Africa,https://flagcdn.com/w320/mr.png,..\output\imagenes_procesadas\mr.jpg
+Mauritius,MUS,2011,986634.0,Sub-Saharan Africa (excluding high income),Upper middle income,0.8,Port Louis,Africa,Eastern Africa,https://flagcdn.com/w320/mu.png,..\output\imagenes_procesadas\mu.jpg
+Mexico,MEX,2011,79795751.0,Latin America & Caribbean (excluding high income),Upper middle income,0.27,Mexico City,Americas,North America,https://flagcdn.com/w320/mx.png,..\output\imagenes_procesadas\mx.jpg
+Moldova,MDA,2011,2361620.0,Europe & Central Asia (excluding high income),Upper middle income,0.18,Chișinău,Europe,Eastern Europe,https://flagcdn.com/w320/md.png,..\output\imagenes_procesadas\md.jpg
+Mongolia,MNG,2011,1973485.0,East Asia & Pacific (excluding high income),Lower middle income,0.78,Ulan Bator,Asia,Eastern Asia,https://flagcdn.com/w320/mn.png,..\output\imagenes_procesadas\mn.jpg
+Montenegro,MNE,2011,500343.0,Europe & Central Asia (excluding high income),Upper middle income,0.5,Podgorica,Europe,Southern Europe,https://flagcdn.com/w320/me.png,..\output\imagenes_procesadas\me.jpg
+Nepal,NPL,2011,17498633.0,South Asia (excluding high income),Lower middle income,0.25,Kathmandu,Asia,Southern Asia,https://flagcdn.com/w320/np.png,..\output\imagenes_procesadas\np.jpg
+Netherlands,NLD,2011,13694510.0,High income,High income,0.99,Amsterdam,Europe,Western Europe,https://flagcdn.com/w320/nl.png,..\output\imagenes_procesadas\nl.jpg
+New Zealand,NZL,2011,3443024.0,High income,High income,0.99,Wellington,Oceania,Australia and New Zealand,https://flagcdn.com/w320/nz.png,..\output\imagenes_procesadas\nz.jpg
+Nicaragua,NIC,2011,3774402.0,Latin America & Caribbean (excluding high income),Lower middle income,0.14,Managua,Americas,Central America,https://flagcdn.com/w320/ni.png,..\output\imagenes_procesadas\ni.jpg
+Niger,NER,2011,8376813.0,Sub-Saharan Africa (excluding high income),Low income,0.02,Niamey,Africa,Western Africa,https://flagcdn.com/w320/ne.png,..\output\imagenes_procesadas\ne.jpg
+Nigeria,NGA,2011,92621676.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.3,Abuja,Africa,Western Africa,https://flagcdn.com/w320/ng.png,..\output\imagenes_procesadas\ng.jpg
+North Macedonia,MKD,2011,1569860.0,Europe & Central Asia (excluding high income),Upper middle income,0.74,Skopje,Europe,Southern Europe,https://flagcdn.com/w320/mk.png,..\output\imagenes_procesadas\mk.jpg
+Oman,OMN,2011,1989124.0,High income,High income,0.74,Muscat,Asia,Western Asia,https://flagcdn.com/w320/om.png,..\output\imagenes_procesadas\om.jpg
+Pakistan,PAK,2011,120857470.0,South Asia (excluding high income),Lower middle income,0.1,Islamabad,Asia,Southern Asia,https://flagcdn.com/w320/pk.png,..\output\imagenes_procesadas\pk.jpg
+Panama,PAN,2011,2569368.0,High income,High income,0.25,Panama City,Americas,Central America,https://flagcdn.com/w320/pa.png,..\output\imagenes_procesadas\pa.jpg
+Paraguay,PRY,2011,3870412.0,Latin America & Caribbean (excluding high income),Upper middle income,0.22,Asunción,Americas,South America,https://flagcdn.com/w320/py.png,..\output\imagenes_procesadas\py.jpg
+Peru,PER,2011,20570757.0,Latin America & Caribbean (excluding high income),Upper middle income,0.2,Lima,Americas,South America,https://flagcdn.com/w320/pe.png,..\output\imagenes_procesadas\pe.jpg
+Philippines,PHL,2011,62034866.0,East Asia & Pacific (excluding high income),Lower middle income,0.27,Manila,Asia,South-Eastern Asia,https://flagcdn.com/w320/ph.png,..\output\imagenes_procesadas\ph.jpg
+Poland,POL,2011,32308457.0,High income,High income,0.7,Warsaw,Europe,Central Europe,https://flagcdn.com/w320/pl.png,..\output\imagenes_procesadas\pl.jpg
+Portugal,PRT,2011,8967347.0,High income,High income,0.81,Lisbon,Europe,Southern Europe,https://flagcdn.com/w320/pt.png,..\output\imagenes_procesadas\pt.jpg
+Qatar,QAT,2011,1392286.0,High income,High income,0.66,Doha,Asia,Western Asia,https://flagcdn.com/w320/qa.png,..\output\imagenes_procesadas\qa.jpg
+Romania,ROU,2011,17058580.0,High income,High income,0.45,Bucharest,Europe,Eastern Europe,https://flagcdn.com/w320/ro.png,..\output\imagenes_procesadas\ro.jpg
+Russian Federation,RUS,2011,121177141.0,Europe & Central Asia (excluding high income),Upper middle income,0.48,Moscow,Europe,Eastern Europe,https://flagcdn.com/w320/ru.png,..\output\imagenes_procesadas\ru.jpg
+Rwanda,RWA,2011,5941330.0,Sub-Saharan Africa (excluding high income),Low income,0.33,Kigali,Africa,Eastern Africa,https://flagcdn.com/w320/rw.png,..\output\imagenes_procesadas\rw.jpg
+Saudi Arabia,SAU,2011,17354530.0,High income,High income,0.46,Riyadh,Asia,Western Asia,https://flagcdn.com/w320/sa.png,..\output\imagenes_procesadas\sa.jpg
+Senegal,SEN,2011,7243499.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.06,Dakar,Africa,Western Africa,https://flagcdn.com/w320/sn.png,..\output\imagenes_procesadas\sn.jpg
+Serbia,SRB,2011,6237019.0,Europe & Central Asia (excluding high income),Upper middle income,0.62,Belgrade,Europe,Southern Europe,https://flagcdn.com/w320/rs.png,..\output\imagenes_procesadas\rs.jpg
+Sierra Leone,SLE,2011,3534329.0,Sub-Saharan Africa (excluding high income),Low income,0.15,Freetown,Africa,Western Africa,https://flagcdn.com/w320/sl.png,..\output\imagenes_procesadas\sl.jpg
+Singapore,SGP,2011,4359214.0,High income,High income,0.98,Singapore,Asia,South-Eastern Asia,https://flagcdn.com/w320/sg.png,..\output\imagenes_procesadas\sg.jpg
+Slovenia,SVN,2011,1758964.0,High income,High income,0.97,Ljubljana,Europe,Southern Europe,https://flagcdn.com/w320/si.png,..\output\imagenes_procesadas\si.jpg
+South Africa,ZAF,2011,36953226.0,Sub-Saharan Africa (excluding high income),Upper middle income,0.54,Pretoria,Africa,Southern Africa,https://flagcdn.com/w320/za.png,..\output\imagenes_procesadas\za.jpg
+Spain,ESP,2011,39626900.0,High income,High income,0.93,Madrid,Europe,Southern Europe,https://flagcdn.com/w320/es.png,..\output\imagenes_procesadas\es.jpg
+Sri Lanka,LKA,2011,15571720.0,South Asia (excluding high income),Lower middle income,0.69,Sri Jayawardenepura Kotte,Asia,Southern Asia,https://flagcdn.com/w320/lk.png,..\output\imagenes_procesadas\lk.jpg
+Sudan,SDN,2011,19614991.0,Sub-Saharan Africa (excluding high income),Low income,0.07,Khartoum,Africa,Northern Africa,https://flagcdn.com/w320/sd.png,..\output\imagenes_procesadas\sd.jpg
+Sweden,SWE,2011,7820937.0,High income,High income,0.99,Stockholm,Europe,Northern Europe,https://flagcdn.com/w320/se.png,..\output\imagenes_procesadas\se.jpg
+Syrian Arab Republic,SYR,2011,14356499.0,Middle East & North Africa (excluding high income),Low income,0.23,Damascus,Asia,Western Asia,https://flagcdn.com/w320/sy.png,..\output\imagenes_procesadas\sy.jpg
+Tajikistan,TJK,2011,4834891.0,Europe & Central Asia (excluding high income),Lower middle income,0.03,Dushanbe,Asia,Central Asia,https://flagcdn.com/w320/tj.png,..\output\imagenes_procesadas\tj.jpg
+Tanzania,TZA,2011,24470055.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.17,Dodoma,Africa,Eastern Africa,https://flagcdn.com/w320/tz.png,..\output\imagenes_procesadas\tz.jpg
+Thailand,THA,2011,54766867.0,East Asia & Pacific (excluding high income),Upper middle income,0.73,Bangkok,Asia,South-Eastern Asia,https://flagcdn.com/w320/th.png,..\output\imagenes_procesadas\th.jpg
+Togo,TGO,2011,3932998.0,Sub-Saharan Africa (excluding high income),Low income,0.1,Lomé,Africa,Western Africa,https://flagcdn.com/w320/tg.png,..\output\imagenes_procesadas\tg.jpg
+Trinidad and Tobago,TTO,2011,1050120.0,High income,High income,0.76,Port of Spain,Americas,Caribbean,https://flagcdn.com/w320/tt.png,..\output\imagenes_procesadas\tt.jpg
+Turkmenistan,TKM,2011,3877998.0,Europe & Central Asia (excluding high income),Upper middle income,0.0,Ashgabat,Asia,Central Asia,https://flagcdn.com/w320/tm.png,..\output\imagenes_procesadas\tm.jpg
+Uganda,UGA,2011,16363076.0,Sub-Saharan Africa (excluding high income),Low income,0.2,Kampala,Africa,Eastern Africa,https://flagcdn.com/w320/ug.png,..\output\imagenes_procesadas\ug.jpg
+Ukraine,UKR,2011,39900312.0,Europe & Central Asia (excluding high income),Lower middle income,0.41,Kyiv,Europe,Eastern Europe,https://flagcdn.com/w320/ua.png,..\output\imagenes_procesadas\ua.jpg
+United Arab Emirates,ARE,2011,5710622.0,High income,High income,0.6,Abu Dhabi,Asia,Western Asia,https://flagcdn.com/w320/ae.png,..\output\imagenes_procesadas\ae.jpg
+United Kingdom,GBR,2011,51619966.0,High income,High income,0.97,London,Europe,Northern Europe,https://flagcdn.com/w320/gb.png,..\output\imagenes_procesadas\gb.jpg
+United States,USA,2011,248390172.0,High income,High income,0.88,,Americas,Northern America,https://flagcdn.com/w320/um.png,..\output\imagenes_procesadas\um.jpg
+Uruguay,URY,2011,2578893.0,High income,High income,0.24,Montevideo,Americas,South America,https://flagcdn.com/w320/uy.png,..\output\imagenes_procesadas\uy.jpg
+Uzbekistan,UZB,2011,20171292.0,Europe & Central Asia (excluding high income),Lower middle income,0.23,Tashkent,Asia,Central Asia,https://flagcdn.com/w320/uz.png,..\output\imagenes_procesadas\uz.jpg
+Zambia,ZMB,2011,7506102.0,Sub-Saharan Africa (excluding high income),Low income,0.21,Lusaka,Africa,Eastern Africa,https://flagcdn.com/w320/zm.png,..\output\imagenes_procesadas\zm.jpg
+Zimbabwe,ZWE,2011,7608011.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.4,Harare,Africa,Southern Africa,https://flagcdn.com/w320/zw.png,..\output\imagenes_procesadas\zw.jpg
+Afghanistan,AFG,2014,16708999.0,South Asia (excluding high income),Low income,0.1,Kabul,Asia,Southern Asia,https://flagcdn.com/w320/af.png,..\output\imagenes_procesadas\af.jpg
+Albania,ALB,2014,2322032.0,Europe & Central Asia (excluding high income),Upper middle income,0.38,Tirana,Europe,Southern Europe,https://flagcdn.com/w320/al.png,..\output\imagenes_procesadas\al.jpg
+Algeria,DZA,2014,27628433.0,Middle East & North Africa (excluding high income),Lower middle income,0.5,Algiers,Africa,Northern Africa,https://flagcdn.com/w320/dz.png,..\output\imagenes_procesadas\dz.jpg
+Angola,AGO,2014,14342950.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.29,Luanda,Africa,Middle Africa,https://flagcdn.com/w320/ao.png,..\output\imagenes_procesadas\ao.jpg
+Argentina,ARG,2014,31872846.0,Latin America & Caribbean (excluding high income),Upper middle income,0.5,Buenos Aires,Americas,South America,https://flagcdn.com/w320/ar.png,..\output\imagenes_procesadas\ar.jpg
+Armenia,ARM,2014,2428128.0,Europe & Central Asia (excluding high income),Upper middle income,0.18,Yerevan,Asia,Western Asia,https://flagcdn.com/w320/am.png,..\output\imagenes_procesadas\am.jpg
+Australia,AUS,2014,18749193.0,High income,High income,0.99,Canberra,Oceania,Australia and New Zealand,https://flagcdn.com/w320/au.png,..\output\imagenes_procesadas\au.jpg
+Austria,AUT,2014,7260944.0,High income,High income,0.97,Vienna,Europe,Central Europe,https://flagcdn.com/w320/at.png,..\output\imagenes_procesadas\at.jpg
+Azerbaijan,AZE,2014,7283305.0,Europe & Central Asia (excluding high income),Upper middle income,0.29,Baku,Asia,Western Asia,https://flagcdn.com/w320/az.png,..\output\imagenes_procesadas\az.jpg
+Bahrain,BHR,2014,1005566.0,High income,High income,0.82,Manama,Asia,Western Asia,https://flagcdn.com/w320/bh.png,..\output\imagenes_procesadas\bh.jpg
+Bangladesh,BGD,2014,105778630.0,South Asia (excluding high income),Lower middle income,0.31,Dhaka,Asia,Southern Asia,https://flagcdn.com/w320/bd.png,..\output\imagenes_procesadas\bd.jpg
+Belarus,BLR,2014,7971997.0,Europe & Central Asia (excluding high income),Upper middle income,0.72,Minsk,Europe,Eastern Europe,https://flagcdn.com/w320/by.png,..\output\imagenes_procesadas\by.jpg
+Belgium,BEL,2014,9263588.0,High income,High income,0.98,Brussels,Europe,Western Europe,https://flagcdn.com/w320/be.png,..\output\imagenes_procesadas\be.jpg
+Belize,BLZ,2014,228016.0,Latin America & Caribbean (excluding high income),Upper middle income,0.48,Belmopan,Americas,Central America,https://flagcdn.com/w320/bz.png,..\output\imagenes_procesadas\bz.jpg
+Benin,BEN,2014,6043333.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.17,Porto-Novo,Africa,Western Africa,https://flagcdn.com/w320/bj.png,..\output\imagenes_procesadas\bj.jpg
+Bhutan,BTN,2014,523289.0,South Asia (excluding high income),Lower middle income,0.34,Thimphu,Asia,Southern Asia,https://flagcdn.com/w320/bt.png,..\output\imagenes_procesadas\bt.jpg
+Bolivia,BOL,2014,7120716.0,Latin America & Caribbean (excluding high income),Lower middle income,0.42,Sucre,Americas,South America,https://flagcdn.com/w320/bo.png,..\output\imagenes_procesadas\bo.jpg
+Bosnia and Herzegovina,BIH,2014,3077307.0,Europe & Central Asia (excluding high income),Upper middle income,0.53,Sarajevo,Europe,Southern Europe,https://flagcdn.com/w320/ba.png,..\output\imagenes_procesadas\ba.jpg
+Botswana,BWA,2014,1405268.0,Sub-Saharan Africa (excluding high income),Upper middle income,0.52,Gaborone,Africa,Southern Africa,https://flagcdn.com/w320/bw.png,..\output\imagenes_procesadas\bw.jpg
+Brazil,BRA,2014,152293155.0,Latin America & Caribbean (excluding high income),Upper middle income,0.68,Brasília,Americas,South America,https://flagcdn.com/w320/br.png,..\output\imagenes_procesadas\br.jpg
+Bulgaria,BGR,2014,6271977.0,Europe & Central Asia (excluding high income),Upper middle income,0.63,Sofia,Europe,Eastern Europe,https://flagcdn.com/w320/bg.png,..\output\imagenes_procesadas\bg.jpg
+Burkina Faso,BFA,2014,9623020.0,Sub-Saharan Africa (excluding high income),Low income,0.14,Ouagadougou,Africa,Western Africa,https://flagcdn.com/w320/bf.png,..\output\imagenes_procesadas\bf.jpg
+Burundi,BDI,2014,5630929.0,Sub-Saharan Africa (excluding high income),Low income,0.07,Gitega,Africa,Eastern Africa,https://flagcdn.com/w320/bi.png,..\output\imagenes_procesadas\bi.jpg
+Cambodia,KHM,2014,10284331.0,East Asia & Pacific (excluding high income),Lower middle income,0.22,Phnom Penh,Asia,South-Eastern Asia,https://flagcdn.com/w320/kh.png,..\output\imagenes_procesadas\kh.jpg
+Cameroon,CMR,2014,12084831.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.12,Yaoundé,Africa,Middle Africa,https://flagcdn.com/w320/cm.png,..\output\imagenes_procesadas\cm.jpg
+Canada,CAN,2014,29372810.0,High income,High income,0.99,Ottawa,Americas,Northern America,https://flagcdn.com/w320/ca.png,..\output\imagenes_procesadas\ca.jpg
+Chad,TCD,2014,7035329.0,Sub-Saharan Africa (excluding high income),Low income,0.12,N'Djamena,Africa,Middle Africa,https://flagcdn.com/w320/td.png,..\output\imagenes_procesadas\td.jpg
+Chile,CHL,2014,14064832.0,High income,High income,0.63,Santiago,Americas,South America,https://flagcdn.com/w320/cl.png,..\output\imagenes_procesadas\cl.jpg
+China,CHN,2014,1113693456.0,East Asia & Pacific (excluding high income),Upper middle income,0.79,Beijing,Asia,Eastern Asia,https://flagcdn.com/w320/cn.png,..\output\imagenes_procesadas\cn.jpg
+Colombia,COL,2014,34309704.0,Latin America & Caribbean (excluding high income),Upper middle income,0.39,Bogotá,Americas,South America,https://flagcdn.com/w320/co.png,..\output\imagenes_procesadas\co.jpg
+Costa Rica,CRI,2014,3611461.0,Latin America & Caribbean (excluding high income),Upper middle income,0.65,San José,Americas,Central America,https://flagcdn.com/w320/cr.png,..\output\imagenes_procesadas\cr.jpg
+Croatia,HRV,2014,3606895.0,High income,High income,0.86,Zagreb,Europe,Southern Europe,https://flagcdn.com/w320/hr.png,..\output\imagenes_procesadas\hr.jpg
+Cyprus,CYP,2014,991903.0,High income,High income,0.9,Nicosia,Europe,Southern Europe,https://flagcdn.com/w320/cy.png,..\output\imagenes_procesadas\cy.jpg
+Denmark,DNK,2014,4641892.0,High income,High income,1.0,Copenhagen,Europe,Northern Europe,https://flagcdn.com/w320/dk.png,..\output\imagenes_procesadas\dk.jpg
+Dominican Republic,DOM,2014,7152325.0,Latin America & Caribbean (excluding high income),Upper middle income,0.54,Santo Domingo,Americas,Caribbean,https://flagcdn.com/w320/do.png,..\output\imagenes_procesadas\do.jpg
+Ecuador,ECU,2014,11054660.0,Latin America & Caribbean (excluding high income),Upper middle income,0.46,Quito,Americas,South America,https://flagcdn.com/w320/ec.png,..\output\imagenes_procesadas\ec.jpg
+El Salvador,SLV,2014,4304307.0,Latin America & Caribbean (excluding high income),Lower middle income,0.37,San Salvador,Americas,Central America,https://flagcdn.com/w320/sv.png,..\output\imagenes_procesadas\sv.jpg
+Estonia,EST,2014,1110561.0,High income,High income,0.98,Tallinn,Europe,Northern Europe,https://flagcdn.com/w320/ee.png,..\output\imagenes_procesadas\ee.jpg
+Ethiopia,ETH,2014,55109169.0,Sub-Saharan Africa (excluding high income),Low income,0.22,Addis Ababa,Africa,Eastern Africa,https://flagcdn.com/w320/et.png,..\output\imagenes_procesadas\et.jpg
+Finland,FIN,2014,4545771.0,High income,High income,1.0,Helsinki,Europe,Northern Europe,https://flagcdn.com/w320/fi.png,..\output\imagenes_procesadas\fi.jpg
+France,FRA,2014,53825137.0,High income,High income,0.97,Paris,Europe,Western Europe,https://flagcdn.com/w320/fr.png,..\output\imagenes_procesadas\fr.jpg
+Gabon,GAB,2014,1209169.0,Sub-Saharan Africa (excluding high income),Upper middle income,0.33,Libreville,Africa,Middle Africa,https://flagcdn.com/w320/ga.png,..\output\imagenes_procesadas\ga.jpg
+Georgia,GEO,2014,3020250.0,Europe & Central Asia (excluding high income),Upper middle income,0.4,Tbilisi,Asia,Western Asia,https://flagcdn.com/w320/ge.png,..\output\imagenes_procesadas\ge.jpg
+Germany,DEU,2014,69974132.0,High income,High income,0.99,Berlin,Europe,Central Europe,https://flagcdn.com/w320/de.png,..\output\imagenes_procesadas\de.jpg
+Ghana,GHA,2014,16743744.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.41,Accra,Africa,Western Africa,https://flagcdn.com/w320/gh.png,..\output\imagenes_procesadas\gh.jpg
+Greece,GRC,2014,9357686.0,High income,High income,0.88,Athens,Europe,Southern Europe,https://flagcdn.com/w320/gr.png,..\output\imagenes_procesadas\gr.jpg
+Guatemala,GTM,2014,9616393.0,Latin America & Caribbean (excluding high income),Upper middle income,0.41,Guatemala City,Americas,Central America,https://flagcdn.com/w320/gt.png,..\output\imagenes_procesadas\gt.jpg
+Guinea,GIN,2014,6293415.0,Sub-Saharan Africa (excluding high income),Low income,0.07,Conakry,Africa,Western Africa,https://flagcdn.com/w320/gn.png,..\output\imagenes_procesadas\gn.jpg
+Haiti,HTI,2014,6636287.0,Latin America & Caribbean (excluding high income),Lower middle income,0.19,Port-au-Prince,Americas,Caribbean,https://flagcdn.com/w320/ht.png,..\output\imagenes_procesadas\ht.jpg
+Honduras,HND,2014,5672647.0,Latin America & Caribbean (excluding high income),Lower middle income,0.31,Tegucigalpa,Americas,Central America,https://flagcdn.com/w320/hn.png,..\output\imagenes_procesadas\hn.jpg
+Hungary,HUN,2014,8464202.0,High income,High income,0.72,Budapest,Europe,Central Europe,https://flagcdn.com/w320/hu.png,..\output\imagenes_procesadas\hu.jpg
+India,IND,2014,907853291.0,South Asia (excluding high income),Lower middle income,0.53,New Delhi,Asia,Southern Asia,https://flagcdn.com/w320/in.png,..\output\imagenes_procesadas\in.jpg
+Indonesia,IDN,2014,185894322.0,East Asia & Pacific (excluding high income),Lower middle income,0.36,Jakarta,Asia,South-Eastern Asia,https://flagcdn.com/w320/id.png,..\output\imagenes_procesadas\id.jpg
+Iraq,IRQ,2014,20884823.0,Middle East & North Africa (excluding high income),Upper middle income,0.11,Baghdad,Asia,Western Asia,https://flagcdn.com/w320/iq.png,..\output\imagenes_procesadas\iq.jpg
+Ireland,IRL,2014,3629630.0,High income,High income,0.95,Dublin,Europe,Northern Europe,https://flagcdn.com/w320/ie.png,..\output\imagenes_procesadas\ie.jpg
+Israel,ISR,2014,5787501.0,High income,High income,0.9,Jerusalem,Asia,Western Asia,https://flagcdn.com/w320/il.png,..\output\imagenes_procesadas\il.jpg
+Italy,ITA,2014,51850742.0,High income,High income,0.87,Rome,Europe,Southern Europe,https://flagcdn.com/w320/it.png,..\output\imagenes_procesadas\it.jpg
+Jamaica,JAM,2014,2096466.0,Latin America & Caribbean (excluding high income),Upper middle income,0.78,Kingston,Americas,Caribbean,https://flagcdn.com/w320/jm.png,..\output\imagenes_procesadas\jm.jpg
+Japan,JPN,2014,110762343.0,High income,High income,0.97,Tokyo,Asia,Eastern Asia,https://flagcdn.com/w320/jp.png,..\output\imagenes_procesadas\jp.jpg
+Jordan,JOR,2014,5205320.0,Middle East & North Africa (excluding high income),Upper middle income,0.25,Amman,Asia,Western Asia,https://flagcdn.com/w320/jo.png,..\output\imagenes_procesadas\jo.jpg
+Kazakhstan,KAZ,2014,12875804.0,Europe & Central Asia (excluding high income),Upper middle income,0.54,Astana,Asia,Central Asia,https://flagcdn.com/w320/kz.png,..\output\imagenes_procesadas\kz.jpg
+Kenya,KEN,2014,25714887.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.75,Nairobi,Africa,Eastern Africa,https://flagcdn.com/w320/ke.png,..\output\imagenes_procesadas\ke.jpg
+Kosovo,XKX,2014,1334099.0,Europe & Central Asia (excluding high income),Upper middle income,0.48,Pristina,Europe,Eastern Europe,https://flagcdn.com/w320/xk.png,..\output\imagenes_procesadas\xk.jpg
+Kuwait,KWT,2014,2736473.0,High income,High income,0.73,Kuwait City,Asia,Western Asia,https://flagcdn.com/w320/kw.png,..\output\imagenes_procesadas\kw.jpg
+Latvia,LVA,2014,1719348.0,High income,High income,0.9,Riga,Europe,Northern Europe,https://flagcdn.com/w320/lv.png,..\output\imagenes_procesadas\lv.jpg
+Lebanon,LBN,2014,4265657.0,Middle East & North Africa (excluding high income),Lower middle income,0.47,Beirut,Asia,Western Asia,https://flagcdn.com/w320/lb.png,..\output\imagenes_procesadas\lb.jpg
+Lithuania,LTU,2014,2524428.0,High income,High income,0.78,Vilnius,Europe,Northern Europe,https://flagcdn.com/w320/lt.png,..\output\imagenes_procesadas\lt.jpg
+Luxembourg,LUX,2014,451457.0,High income,High income,0.96,Luxembourg,Europe,Western Europe,https://flagcdn.com/w320/lu.png,..\output\imagenes_procesadas\lu.jpg
+Madagascar,MDG,2014,13785487.0,Sub-Saharan Africa (excluding high income),Low income,0.09,Antananarivo,Africa,Eastern Africa,https://flagcdn.com/w320/mg.png,..\output\imagenes_procesadas\mg.jpg
+Malawi,MWI,2014,8735190.0,Sub-Saharan Africa (excluding high income),Low income,0.18,Lilongwe,Africa,Eastern Africa,https://flagcdn.com/w320/mw.png,..\output\imagenes_procesadas\mw.jpg
+Malaysia,MYS,2014,22158615.0,East Asia & Pacific (excluding high income),Upper middle income,0.81,Kuala Lumpur,Asia,South-Eastern Asia,https://flagcdn.com/w320/my.png,..\output\imagenes_procesadas\my.jpg
+Mali,MLI,2014,9100789.0,Sub-Saharan Africa (excluding high income),Low income,0.2,Bamako,Africa,Western Africa,https://flagcdn.com/w320/ml.png,..\output\imagenes_procesadas\ml.jpg
+Malta,MLT,2014,364279.0,High income,High income,0.96,Valletta,Europe,Southern Europe,https://flagcdn.com/w320/mt.png,..\output\imagenes_procesadas\mt.jpg
+Mauritania,MRT,2014,2084692.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.23,Nouakchott,Africa,Western Africa,https://flagcdn.com/w320/mr.png,..\output\imagenes_procesadas\mr.jpg
+Mauritius,MUS,2014,1010413.0,Sub-Saharan Africa (excluding high income),Upper middle income,0.82,Port Louis,Africa,Eastern Africa,https://flagcdn.com/w320/mu.png,..\output\imagenes_procesadas\mu.jpg
+Mexico,MEX,2014,84399247.0,Latin America & Caribbean (excluding high income),Upper middle income,0.39,Mexico City,Americas,North America,https://flagcdn.com/w320/mx.png,..\output\imagenes_procesadas\mx.jpg
+Moldova,MDA,2014,2361002.0,Europe & Central Asia (excluding high income),Upper middle income,0.18,Chișinău,Europe,Eastern Europe,https://flagcdn.com/w320/md.png,..\output\imagenes_procesadas\md.jpg
+Mongolia,MNG,2014,2074233.0,East Asia & Pacific (excluding high income),Lower middle income,0.92,Ulan Bator,Asia,Eastern Asia,https://flagcdn.com/w320/mn.png,..\output\imagenes_procesadas\mn.jpg
+Montenegro,MNE,2014,504976.0,Europe & Central Asia (excluding high income),Upper middle income,0.6,Podgorica,Europe,Southern Europe,https://flagcdn.com/w320/me.png,..\output\imagenes_procesadas\me.jpg
+Myanmar,MMR,2014,36618649.0,East Asia & Pacific (excluding high income),Lower middle income,0.23,Naypyidaw,Asia,South-Eastern Asia,https://flagcdn.com/w320/mm.png,..\output\imagenes_procesadas\mm.jpg
+Namibia,NAM,2014,1427950.0,Sub-Saharan Africa (excluding high income),Upper middle income,0.59,Windhoek,Africa,Southern Africa,https://flagcdn.com/w320/na.png,..\output\imagenes_procesadas\na.jpg
+Nepal,NPL,2014,18161615.0,South Asia (excluding high income),Lower middle income,0.34,Kathmandu,Asia,Southern Asia,https://flagcdn.com/w320/np.png,..\output\imagenes_procesadas\np.jpg
+Netherlands,NLD,2014,13933854.0,High income,High income,0.99,Amsterdam,Europe,Western Europe,https://flagcdn.com/w320/nl.png,..\output\imagenes_procesadas\nl.jpg
+New Zealand,NZL,2014,3534713.0,High income,High income,1.0,Wellington,Oceania,Australia and New Zealand,https://flagcdn.com/w320/nz.png,..\output\imagenes_procesadas\nz.jpg
+Nicaragua,NIC,2014,4012287.0,Latin America & Caribbean (excluding high income),Lower middle income,0.19,Managua,Americas,Central America,https://flagcdn.com/w320/ni.png,..\output\imagenes_procesadas\ni.jpg
+Niger,NER,2014,9371030.0,Sub-Saharan Africa (excluding high income),Low income,0.07,Niamey,Africa,Western Africa,https://flagcdn.com/w320/ne.png,..\output\imagenes_procesadas\ne.jpg
+Nigeria,NGA,2014,100567840.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.44,Abuja,Africa,Western Africa,https://flagcdn.com/w320/ng.png,..\output\imagenes_procesadas\ng.jpg
+North Macedonia,MKD,2014,1565432.0,Europe & Central Asia (excluding high income),Upper middle income,0.72,Skopje,Europe,Southern Europe,https://flagcdn.com/w320/mk.png,..\output\imagenes_procesadas\mk.jpg
+Norway,NOR,2014,4150602.0,High income,High income,1.0,Oslo,Europe,Northern Europe,https://flagcdn.com/w320/no.png,..\output\imagenes_procesadas\no.jpg
+Pakistan,PAK,2014,128875593.0,South Asia (excluding high income),Lower middle income,0.13,Islamabad,Asia,Southern Asia,https://flagcdn.com/w320/pk.png,..\output\imagenes_procesadas\pk.jpg
+Panama,PAN,2014,2737867.0,High income,High income,0.44,Panama City,Americas,Central America,https://flagcdn.com/w320/pa.png,..\output\imagenes_procesadas\pa.jpg
+Peru,PER,2014,21413567.0,Latin America & Caribbean (excluding high income),Upper middle income,0.29,Lima,Americas,South America,https://flagcdn.com/w320/pe.png,..\output\imagenes_procesadas\pe.jpg
+Philippines,PHL,2014,66911959.0,East Asia & Pacific (excluding high income),Lower middle income,0.31,Manila,Asia,South-Eastern Asia,https://flagcdn.com/w320/ph.png,..\output\imagenes_procesadas\ph.jpg
+Poland,POL,2014,32293711.0,High income,High income,0.78,Warsaw,Europe,Central Europe,https://flagcdn.com/w320/pl.png,..\output\imagenes_procesadas\pl.jpg
+Portugal,PRT,2014,8911922.0,High income,High income,0.87,Lisbon,Europe,Southern Europe,https://flagcdn.com/w320/pt.png,..\output\imagenes_procesadas\pt.jpg
+Puerto Rico,PRI,2014,2955855.0,High income,High income,0.7,San Juan,Americas,Caribbean,https://flagcdn.com/w320/pr.png,..\output\imagenes_procesadas\pr.jpg
+Romania,ROU,2014,16846776.0,High income,High income,0.61,Bucharest,Europe,Eastern Europe,https://flagcdn.com/w320/ro.png,..\output\imagenes_procesadas\ro.jpg
+Russian Federation,RUS,2014,120673872.0,Europe & Central Asia (excluding high income),Upper middle income,0.67,Moscow,Europe,Eastern Europe,https://flagcdn.com/w320/ru.png,..\output\imagenes_procesadas\ru.jpg
+Rwanda,RWA,2014,6472142.0,Sub-Saharan Africa (excluding high income),Low income,0.42,Kigali,Africa,Eastern Africa,https://flagcdn.com/w320/rw.png,..\output\imagenes_procesadas\rw.jpg
+Saudi Arabia,SAU,2014,20496432.0,High income,High income,0.69,Riyadh,Asia,Western Asia,https://flagcdn.com/w320/sa.png,..\output\imagenes_procesadas\sa.jpg
+Senegal,SEN,2014,7858967.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.15,Dakar,Africa,Western Africa,https://flagcdn.com/w320/sn.png,..\output\imagenes_procesadas\sn.jpg
+Serbia,SRB,2014,6141282.0,Europe & Central Asia (excluding high income),Upper middle income,0.83,Belgrade,Europe,Southern Europe,https://flagcdn.com/w320/rs.png,..\output\imagenes_procesadas\rs.jpg
+Sierra Leone,SLE,2014,3858836.0,Sub-Saharan Africa (excluding high income),Low income,0.16,Freetown,Africa,Western Africa,https://flagcdn.com/w320/sl.png,..\output\imagenes_procesadas\sl.jpg
+Singapore,SGP,2014,4691514.0,High income,High income,0.96,Singapore,Asia,South-Eastern Asia,https://flagcdn.com/w320/sg.png,..\output\imagenes_procesadas\sg.jpg
+Slovenia,SVN,2014,1759867.0,High income,High income,0.97,Ljubljana,Europe,Southern Europe,https://flagcdn.com/w320/si.png,..\output\imagenes_procesadas\si.jpg
+Somalia,SOM,2014,6719620.0,Sub-Saharan Africa (excluding high income),Low income,0.39,Mogadishu,Africa,Eastern Africa,https://flagcdn.com/w320/so.png,..\output\imagenes_procesadas\so.jpg
+South Africa,ZAF,2014,38992463.0,Sub-Saharan Africa (excluding high income),Upper middle income,0.7,Pretoria,Africa,Southern Africa,https://flagcdn.com/w320/za.png,..\output\imagenes_procesadas\za.jpg
+Spain,ESP,2014,39593406.0,High income,High income,0.98,Madrid,Europe,Southern Europe,https://flagcdn.com/w320/es.png,..\output\imagenes_procesadas\es.jpg
+Sri Lanka,LKA,2014,15433197.0,South Asia (excluding high income),Lower middle income,0.83,Sri Jayawardenepura Kotte,Asia,Southern Asia,https://flagcdn.com/w320/lk.png,..\output\imagenes_procesadas\lk.jpg
+Sudan,SDN,2014,21021157.0,Sub-Saharan Africa (excluding high income),Low income,0.15,Khartoum,Africa,Northern Africa,https://flagcdn.com/w320/sd.png,..\output\imagenes_procesadas\sd.jpg
+Sweden,SWE,2014,7971436.0,High income,High income,1.0,Stockholm,Europe,Northern Europe,https://flagcdn.com/w320/se.png,..\output\imagenes_procesadas\se.jpg
+Switzerland,CHE,2014,6883205.0,High income,High income,0.98,Bern,Europe,Central Europe,https://flagcdn.com/w320/ch.png,..\output\imagenes_procesadas\ch.jpg
+Tajikistan,TJK,2014,5217089.0,Europe & Central Asia (excluding high income),Lower middle income,0.11,Dushanbe,Asia,Central Asia,https://flagcdn.com/w320/tj.png,..\output\imagenes_procesadas\tj.jpg
+Tanzania,TZA,2014,26884351.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.4,Dodoma,Africa,Eastern Africa,https://flagcdn.com/w320/tz.png,..\output\imagenes_procesadas\tz.jpg
+Thailand,THA,2014,56707280.0,East Asia & Pacific (excluding high income),Upper middle income,0.78,Bangkok,Asia,South-Eastern Asia,https://flagcdn.com/w320/th.png,..\output\imagenes_procesadas\th.jpg
+Togo,TGO,2014,4254423.0,Sub-Saharan Africa (excluding high income),Low income,0.18,Lomé,Africa,Western Africa,https://flagcdn.com/w320/tg.png,..\output\imagenes_procesadas\tg.jpg
+Tunisia,TUN,2014,8426960.0,Middle East & North Africa (excluding high income),Lower middle income,0.27,Tunis,Africa,Northern Africa,https://flagcdn.com/w320/tn.png,..\output\imagenes_procesadas\tn.jpg
+Uganda,UGA,2014,18082753.0,Sub-Saharan Africa (excluding high income),Low income,0.44,Kampala,Africa,Eastern Africa,https://flagcdn.com/w320/ug.png,..\output\imagenes_procesadas\ug.jpg
+Ukraine,UKR,2014,39385204.0,Europe & Central Asia (excluding high income),Lower middle income,0.53,Kyiv,Europe,Eastern Europe,https://flagcdn.com/w320/ua.png,..\output\imagenes_procesadas\ua.jpg
+United Arab Emirates,ARE,2014,6398423.0,High income,High income,0.84,Abu Dhabi,Asia,Western Asia,https://flagcdn.com/w320/ae.png,..\output\imagenes_procesadas\ae.jpg
+United Kingdom,GBR,2014,52712003.0,High income,High income,0.99,London,Europe,Northern Europe,https://flagcdn.com/w320/gb.png,..\output\imagenes_procesadas\gb.jpg
+United States,USA,2014,254715188.0,High income,High income,0.94,,Americas,Northern America,https://flagcdn.com/w320/um.png,..\output\imagenes_procesadas\um.jpg
+Uruguay,URY,2014,2625287.0,High income,High income,0.46,Montevideo,Americas,South America,https://flagcdn.com/w320/uy.png,..\output\imagenes_procesadas\uy.jpg
+Uzbekistan,UZB,2014,21374576.0,Europe & Central Asia (excluding high income),Lower middle income,0.41,Tashkent,Asia,Central Asia,https://flagcdn.com/w320/uz.png,..\output\imagenes_procesadas\uz.jpg
+Zambia,ZMB,2014,8358295.0,Sub-Saharan Africa (excluding high income),Low income,0.36,Lusaka,Africa,Eastern Africa,https://flagcdn.com/w320/zm.png,..\output\imagenes_procesadas\zm.jpg
+Zimbabwe,ZWE,2014,7862617.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.32,Harare,Africa,Southern Africa,https://flagcdn.com/w320/zw.png,..\output\imagenes_procesadas\zw.jpg
+Afghanistan,AFG,2017,18807229.0,South Asia (excluding high income),Low income,0.15,Kabul,Asia,Southern Asia,https://flagcdn.com/w320/af.png,..\output\imagenes_procesadas\af.jpg
+Albania,ALB,2017,2340965.0,Europe & Central Asia (excluding high income),Upper middle income,0.4,Tirana,Europe,Southern Europe,https://flagcdn.com/w320/al.png,..\output\imagenes_procesadas\al.jpg
+Algeria,DZA,2017,28799702.0,Middle East & North Africa (excluding high income),Lower middle income,0.43,Algiers,Africa,Northern Africa,https://flagcdn.com/w320/dz.png,..\output\imagenes_procesadas\dz.jpg
+Argentina,ARG,2017,33036043.0,Latin America & Caribbean (excluding high income),Upper middle income,0.49,Buenos Aires,Americas,South America,https://flagcdn.com/w320/ar.png,..\output\imagenes_procesadas\ar.jpg
+Armenia,ARM,2017,2384230.0,Europe & Central Asia (excluding high income),Upper middle income,0.48,Yerevan,Asia,Western Asia,https://flagcdn.com/w320/am.png,..\output\imagenes_procesadas\am.jpg
+Australia,AUS,2017,19621820.0,High income,High income,1.0,Canberra,Oceania,Australia and New Zealand,https://flagcdn.com/w320/au.png,..\output\imagenes_procesadas\au.jpg
+Austria,AUT,2017,7481549.0,High income,High income,0.98,Vienna,Europe,Central Europe,https://flagcdn.com/w320/at.png,..\output\imagenes_procesadas\at.jpg
+Azerbaijan,AZE,2017,7438923.0,Europe & Central Asia (excluding high income),Upper middle income,0.29,Baku,Asia,Western Asia,https://flagcdn.com/w320/az.png,..\output\imagenes_procesadas\az.jpg
+Bahrain,BHR,2017,1137724.0,High income,High income,0.83,Manama,Asia,Western Asia,https://flagcdn.com/w320/bh.png,..\output\imagenes_procesadas\bh.jpg
+Bangladesh,BGD,2017,111658076.0,South Asia (excluding high income),Lower middle income,0.5,Dhaka,Asia,Southern Asia,https://flagcdn.com/w320/bd.png,..\output\imagenes_procesadas\bd.jpg
+Belarus,BLR,2017,7909969.0,Europe & Central Asia (excluding high income),Upper middle income,0.81,Minsk,Europe,Eastern Europe,https://flagcdn.com/w320/by.png,..\output\imagenes_procesadas\by.jpg
+Belgium,BEL,2017,9407055.0,High income,High income,0.99,Brussels,Europe,Western Europe,https://flagcdn.com/w320/be.png,..\output\imagenes_procesadas\be.jpg
+Benin,BEN,2017,6631280.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.38,Porto-Novo,Africa,Western Africa,https://flagcdn.com/w320/bj.png,..\output\imagenes_procesadas\bj.jpg
+Bolivia,BOL,2017,7571421.0,Latin America & Caribbean (excluding high income),Lower middle income,0.54,Sucre,Americas,South America,https://flagcdn.com/w320/bo.png,..\output\imagenes_procesadas\bo.jpg
+Bosnia and Herzegovina,BIH,2017,2982772.0,Europe & Central Asia (excluding high income),Upper middle income,0.59,Sarajevo,Europe,Southern Europe,https://flagcdn.com/w320/ba.png,..\output\imagenes_procesadas\ba.jpg
+Botswana,BWA,2017,1470809.0,Sub-Saharan Africa (excluding high income),Upper middle income,0.51,Gaborone,Africa,Southern Africa,https://flagcdn.com/w320/bw.png,..\output\imagenes_procesadas\bw.jpg
+Brazil,BRA,2017,158478074.0,Latin America & Caribbean (excluding high income),Upper middle income,0.7,Brasília,Americas,South America,https://flagcdn.com/w320/br.png,..\output\imagenes_procesadas\br.jpg
+Bulgaria,BGR,2017,6128150.0,Europe & Central Asia (excluding high income),Upper middle income,0.72,Sofia,Europe,Eastern Europe,https://flagcdn.com/w320/bg.png,..\output\imagenes_procesadas\bg.jpg
+Burkina Faso,BFA,2017,10570484.0,Sub-Saharan Africa (excluding high income),Low income,0.43,Ouagadougou,Africa,Western Africa,https://flagcdn.com/w320/bf.png,..\output\imagenes_procesadas\bf.jpg
+Cambodia,KHM,2017,10807431.0,East Asia & Pacific (excluding high income),Lower middle income,0.22,Phnom Penh,Asia,South-Eastern Asia,https://flagcdn.com/w320/kh.png,..\output\imagenes_procesadas\kh.jpg
+Cameroon,CMR,2017,13358414.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.35,Yaoundé,Africa,Middle Africa,https://flagcdn.com/w320/cm.png,..\output\imagenes_procesadas\cm.jpg
+Canada,CAN,2017,30253020.0,High income,High income,1.0,Ottawa,Americas,Northern America,https://flagcdn.com/w320/ca.png,..\output\imagenes_procesadas\ca.jpg
+Central African Republic,CAF,2017,2404000.0,Sub-Saharan Africa (excluding high income),Low income,0.14,Bangui,Africa,Middle Africa,https://flagcdn.com/w320/cf.png,..\output\imagenes_procesadas\cf.jpg
+Chad,TCD,2017,7782131.0,Sub-Saharan Africa (excluding high income),Low income,0.22,N'Djamena,Africa,Middle Africa,https://flagcdn.com/w320/td.png,..\output\imagenes_procesadas\td.jpg
+Chile,CHL,2017,14675996.0,High income,High income,0.74,Santiago,Americas,South America,https://flagcdn.com/w320/cl.png,..\output\imagenes_procesadas\cl.jpg
+China,CHN,2017,1133758537.0,East Asia & Pacific (excluding high income),Upper middle income,0.8,Beijing,Asia,Eastern Asia,https://flagcdn.com/w320/cn.png,..\output\imagenes_procesadas\cn.jpg
+Colombia,COL,2017,36092425.0,Latin America & Caribbean (excluding high income),Upper middle income,0.46,Bogotá,Americas,South America,https://flagcdn.com/w320/co.png,..\output\imagenes_procesadas\co.jpg
+Costa Rica,CRI,2017,3790388.0,Latin America & Caribbean (excluding high income),Upper middle income,0.68,San José,Americas,Central America,https://flagcdn.com/w320/cr.png,..\output\imagenes_procesadas\cr.jpg
+Croatia,HRV,2017,3508155.0,High income,High income,0.86,Zagreb,Europe,Southern Europe,https://flagcdn.com/w320/hr.png,..\output\imagenes_procesadas\hr.jpg
+Cyprus,CYP,2017,1039880.0,High income,High income,0.89,Nicosia,Europe,Southern Europe,https://flagcdn.com/w320/cy.png,..\output\imagenes_procesadas\cy.jpg
+Denmark,DNK,2017,4767144.0,High income,High income,1.0,Copenhagen,Europe,Northern Europe,https://flagcdn.com/w320/dk.png,..\output\imagenes_procesadas\dk.jpg
+Dominican Republic,DOM,2017,7508555.0,Latin America & Caribbean (excluding high income),Upper middle income,0.56,Santo Domingo,Americas,Caribbean,https://flagcdn.com/w320/do.png,..\output\imagenes_procesadas\do.jpg
+Ecuador,ECU,2017,11800828.0,Latin America & Caribbean (excluding high income),Upper middle income,0.51,Quito,Americas,South America,https://flagcdn.com/w320/ec.png,..\output\imagenes_procesadas\ec.jpg
+El Salvador,SLV,2017,4464670.0,Latin America & Caribbean (excluding high income),Lower middle income,0.3,San Salvador,Americas,Central America,https://flagcdn.com/w320/sv.png,..\output\imagenes_procesadas\sv.jpg
+Estonia,EST,2017,1103273.0,High income,High income,0.98,Tallinn,Europe,Northern Europe,https://flagcdn.com/w320/ee.png,..\output\imagenes_procesadas\ee.jpg
+Ethiopia,ETH,2017,61575604.0,Sub-Saharan Africa (excluding high income),Low income,0.35,Addis Ababa,Africa,Eastern Africa,https://flagcdn.com/w320/et.png,..\output\imagenes_procesadas\et.jpg
+Finland,FIN,2017,4600229.0,High income,High income,1.0,Helsinki,Europe,Northern Europe,https://flagcdn.com/w320/fi.png,..\output\imagenes_procesadas\fi.jpg
+France,FRA,2017,54658275.0,High income,High income,0.94,Paris,Europe,Western Europe,https://flagcdn.com/w320/fr.png,..\output\imagenes_procesadas\fr.jpg
+Gabon,GAB,2017,1332068.0,Sub-Saharan Africa (excluding high income),Upper middle income,0.59,Libreville,Africa,Middle Africa,https://flagcdn.com/w320/ga.png,..\output\imagenes_procesadas\ga.jpg
+Georgia,GEO,2017,2987888.0,Europe & Central Asia (excluding high income),Upper middle income,0.61,Tbilisi,Asia,Western Asia,https://flagcdn.com/w320/ge.png,..\output\imagenes_procesadas\ge.jpg
+Germany,DEU,2017,71374479.0,High income,High income,0.99,Berlin,Europe,Central Europe,https://flagcdn.com/w320/de.png,..\output\imagenes_procesadas\de.jpg
+Ghana,GHA,2017,18083712.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.58,Accra,Africa,Western Africa,https://flagcdn.com/w320/gh.png,..\output\imagenes_procesadas\gh.jpg
+Greece,GRC,2017,9220190.0,High income,High income,0.85,Athens,Europe,Southern Europe,https://flagcdn.com/w320/gr.png,..\output\imagenes_procesadas\gr.jpg
+Guatemala,GTM,2017,10430246.0,Latin America & Caribbean (excluding high income),Upper middle income,0.44,Guatemala City,Americas,Central America,https://flagcdn.com/w320/gt.png,..\output\imagenes_procesadas\gt.jpg
+Guinea,GIN,2017,6873506.0,Sub-Saharan Africa (excluding high income),Low income,0.23,Conakry,Africa,Western Africa,https://flagcdn.com/w320/gn.png,..\output\imagenes_procesadas\gn.jpg
+Haiti,HTI,2017,7048972.0,Latin America & Caribbean (excluding high income),Lower middle income,0.33,Port-au-Prince,Americas,Caribbean,https://flagcdn.com/w320/ht.png,..\output\imagenes_procesadas\ht.jpg
+Honduras,HND,2017,6185475.0,Latin America & Caribbean (excluding high income),Lower middle income,0.45,Tegucigalpa,Americas,Central America,https://flagcdn.com/w320/hn.png,..\output\imagenes_procesadas\hn.jpg
+Hungary,HUN,2017,8389859.0,High income,High income,0.75,Budapest,Europe,Central Europe,https://flagcdn.com/w320/hu.png,..\output\imagenes_procesadas\hu.jpg
+India,IND,2017,962463650.0,South Asia (excluding high income),Lower middle income,0.8,New Delhi,Asia,Southern Asia,https://flagcdn.com/w320/in.png,..\output\imagenes_procesadas\in.jpg
+Indonesia,IDN,2017,193777030.0,East Asia & Pacific (excluding high income),Lower middle income,0.49,Jakarta,Asia,South-Eastern Asia,https://flagcdn.com/w320/id.png,..\output\imagenes_procesadas\id.jpg
+Iraq,IRQ,2017,23052127.0,Middle East & North Africa (excluding high income),Upper middle income,0.23,Baghdad,Asia,Western Asia,https://flagcdn.com/w320/iq.png,..\output\imagenes_procesadas\iq.jpg
+Ireland,IRL,2017,3749429.0,High income,High income,0.95,Dublin,Europe,Northern Europe,https://flagcdn.com/w320/ie.png,..\output\imagenes_procesadas\ie.jpg
+Israel,ISR,2017,6131598.0,High income,High income,0.93,Jerusalem,Asia,Western Asia,https://flagcdn.com/w320/il.png,..\output\imagenes_procesadas\il.jpg
+Italy,ITA,2017,52409524.0,High income,High income,0.94,Rome,Europe,Southern Europe,https://flagcdn.com/w320/it.png,..\output\imagenes_procesadas\it.jpg
+Japan,JPN,2017,110907804.0,High income,High income,0.98,Tokyo,Asia,Eastern Asia,https://flagcdn.com/w320/jp.png,..\output\imagenes_procesadas\jp.jpg
+Jordan,JOR,2017,6558247.0,Middle East & North Africa (excluding high income),Upper middle income,0.42,Amman,Asia,Western Asia,https://flagcdn.com/w320/jo.png,..\output\imagenes_procesadas\jo.jpg
+Kazakhstan,KAZ,2017,13196334.0,Europe & Central Asia (excluding high income),Upper middle income,0.59,Astana,Asia,Central Asia,https://flagcdn.com/w320/kz.png,..\output\imagenes_procesadas\kz.jpg
+Kenya,KEN,2017,28150345.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.82,Nairobi,Africa,Eastern Africa,https://flagcdn.com/w320/ke.png,..\output\imagenes_procesadas\ke.jpg
+Kosovo,XKX,2017,1328163.0,Europe & Central Asia (excluding high income),Upper middle income,0.52,Pristina,Europe,Eastern Europe,https://flagcdn.com/w320/xk.png,..\output\imagenes_procesadas\xk.jpg
+Kuwait,KWT,2017,3138850.0,High income,High income,0.8,Kuwait City,Asia,Western Asia,https://flagcdn.com/w320/kw.png,..\output\imagenes_procesadas\kw.jpg
+Latvia,LVA,2017,1657658.0,High income,High income,0.93,Riga,Europe,Northern Europe,https://flagcdn.com/w320/lv.png,..\output\imagenes_procesadas\lv.jpg
+Lebanon,LBN,2017,4654352.0,Middle East & North Africa (excluding high income),Lower middle income,0.45,Beirut,Asia,Western Asia,https://flagcdn.com/w320/lb.png,..\output\imagenes_procesadas\lb.jpg
+Lesotho,LSO,2017,1350411.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.46,Maseru,Africa,Southern Africa,https://flagcdn.com/w320/ls.png,..\output\imagenes_procesadas\ls.jpg
+Liberia,LBR,2017,2745577.0,Sub-Saharan Africa (excluding high income),Low income,0.36,Monrovia,Africa,Western Africa,https://flagcdn.com/w320/lr.png,..\output\imagenes_procesadas\lr.jpg
+Libya,LBY,2017,4585159.0,Middle East & North Africa (excluding high income),Upper middle income,0.66,Tripoli,Africa,Northern Africa,https://flagcdn.com/w320/ly.png,..\output\imagenes_procesadas\ly.jpg
+Lithuania,LTU,2017,2445393.0,High income,High income,0.83,Vilnius,Europe,Northern Europe,https://flagcdn.com/w320/lt.png,..\output\imagenes_procesadas\lt.jpg
+Luxembourg,LUX,2017,486845.0,High income,High income,0.99,Luxembourg,Europe,Western Europe,https://flagcdn.com/w320/lu.png,..\output\imagenes_procesadas\lu.jpg
+Madagascar,MDG,2017,15245537.0,Sub-Saharan Africa (excluding high income),Low income,0.18,Antananarivo,Africa,Eastern Africa,https://flagcdn.com/w320/mg.png,..\output\imagenes_procesadas\mg.jpg
+Malawi,MWI,2017,9645161.0,Sub-Saharan Africa (excluding high income),Low income,0.34,Lilongwe,Africa,Eastern Africa,https://flagcdn.com/w320/mw.png,..\output\imagenes_procesadas\mw.jpg
+Malaysia,MYS,2017,23682698.0,East Asia & Pacific (excluding high income),Upper middle income,0.85,Kuala Lumpur,Asia,South-Eastern Asia,https://flagcdn.com/w320/my.png,..\output\imagenes_procesadas\my.jpg
+Maldives,MDV,2017,342024.0,South Asia (excluding high income),Upper middle income,0.8,Malé,Asia,Southern Asia,https://flagcdn.com/w320/mv.png,..\output\imagenes_procesadas\mv.jpg
+Mali,MLI,2017,9985747.0,Sub-Saharan Africa (excluding high income),Low income,0.35,Bamako,Africa,Western Africa,https://flagcdn.com/w320/ml.png,..\output\imagenes_procesadas\ml.jpg
+Malta,MLT,2017,390899.0,High income,High income,0.97,Valletta,Europe,Southern Europe,https://flagcdn.com/w320/mt.png,..\output\imagenes_procesadas\mt.jpg
+Mauritania,MRT,2017,2278505.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.21,Nouakchott,Africa,Western Africa,https://flagcdn.com/w320/mr.png,..\output\imagenes_procesadas\mr.jpg
+Mauritius,MUS,2017,1031251.0,Sub-Saharan Africa (excluding high income),Upper middle income,0.9,Port Louis,Africa,Eastern Africa,https://flagcdn.com/w320/mu.png,..\output\imagenes_procesadas\mu.jpg
+Mexico,MEX,2017,88534114.0,Latin America & Caribbean (excluding high income),Upper middle income,0.36,Mexico City,Americas,North America,https://flagcdn.com/w320/mx.png,..\output\imagenes_procesadas\mx.jpg
+Moldova,MDA,2017,2278507.0,Europe & Central Asia (excluding high income),Upper middle income,0.44,Chișinău,Europe,Eastern Europe,https://flagcdn.com/w320/md.png,..\output\imagenes_procesadas\md.jpg
+Mongolia,MNG,2017,2155814.0,East Asia & Pacific (excluding high income),Lower middle income,0.93,Ulan Bator,Asia,Eastern Asia,https://flagcdn.com/w320/mn.png,..\output\imagenes_procesadas\mn.jpg
+Montenegro,MNE,2017,506847.0,Europe & Central Asia (excluding high income),Upper middle income,0.68,Podgorica,Europe,Southern Europe,https://flagcdn.com/w320/me.png,..\output\imagenes_procesadas\me.jpg
+Morocco,MAR,2017,24894226.0,Middle East & North Africa (excluding high income),Lower middle income,0.29,Rabat,Africa,Northern Africa,https://flagcdn.com/w320/ma.png,..\output\imagenes_procesadas\ma.jpg
+Mozambique,MOZ,2017,14874137.0,Sub-Saharan Africa (excluding high income),Low income,0.42,Maputo,Africa,Eastern Africa,https://flagcdn.com/w320/mz.png,..\output\imagenes_procesadas\mz.jpg
+Myanmar,MMR,2017,38000865.0,East Asia & Pacific (excluding high income),Lower middle income,0.26,Naypyidaw,Asia,South-Eastern Asia,https://flagcdn.com/w320/mm.png,..\output\imagenes_procesadas\mm.jpg
+Namibia,NAM,2017,1547830.0,Sub-Saharan Africa (excluding high income),Upper middle income,0.81,Windhoek,Africa,Southern Africa,https://flagcdn.com/w320/na.png,..\output\imagenes_procesadas\na.jpg
+Nepal,NPL,2017,18869412.0,South Asia (excluding high income),Lower middle income,0.45,Kathmandu,Asia,Southern Asia,https://flagcdn.com/w320/np.png,..\output\imagenes_procesadas\np.jpg
+Netherlands,NLD,2017,14234525.0,High income,High income,1.0,Amsterdam,Europe,Western Europe,https://flagcdn.com/w320/nl.png,..\output\imagenes_procesadas\nl.jpg
+New Zealand,NZL,2017,3788624.0,High income,High income,0.99,Wellington,Oceania,Australia and New Zealand,https://flagcdn.com/w320/nz.png,..\output\imagenes_procesadas\nz.jpg
+Nicaragua,NIC,2017,4249427.0,Latin America & Caribbean (excluding high income),Lower middle income,0.31,Managua,Americas,Central America,https://flagcdn.com/w320/ni.png,..\output\imagenes_procesadas\ni.jpg
+Niger,NER,2017,10546918.0,Sub-Saharan Africa (excluding high income),Low income,0.16,Niamey,Africa,Western Africa,https://flagcdn.com/w320/ne.png,..\output\imagenes_procesadas\ne.jpg
+Nigeria,NGA,2017,109170774.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.4,Abuja,Africa,Western Africa,https://flagcdn.com/w320/ng.png,..\output\imagenes_procesadas\ng.jpg
+North Macedonia,MKD,2017,1567300.0,Europe & Central Asia (excluding high income),Upper middle income,0.77,Skopje,Europe,Southern Europe,https://flagcdn.com/w320/mk.png,..\output\imagenes_procesadas\mk.jpg
+Norway,NOR,2017,4298959.0,High income,High income,1.0,Oslo,Europe,Northern Europe,https://flagcdn.com/w320/no.png,..\output\imagenes_procesadas\no.jpg
+Pakistan,PAK,2017,135055510.0,South Asia (excluding high income),Lower middle income,0.21,Islamabad,Asia,Southern Asia,https://flagcdn.com/w320/pk.png,..\output\imagenes_procesadas\pk.jpg
+Panama,PAN,2017,2915245.0,High income,High income,0.46,Panama City,Americas,Central America,https://flagcdn.com/w320/pa.png,..\output\imagenes_procesadas\pa.jpg
+Paraguay,PRY,2017,4382299.0,Latin America & Caribbean (excluding high income),Upper middle income,0.49,Asunción,Americas,South America,https://flagcdn.com/w320/py.png,..\output\imagenes_procesadas\py.jpg
+Peru,PER,2017,22473210.0,Latin America & Caribbean (excluding high income),Upper middle income,0.43,Lima,Americas,South America,https://flagcdn.com/w320/pe.png,..\output\imagenes_procesadas\pe.jpg
+Philippines,PHL,2017,71585383.0,East Asia & Pacific (excluding high income),Lower middle income,0.34,Manila,Asia,South-Eastern Asia,https://flagcdn.com/w320/ph.png,..\output\imagenes_procesadas\ph.jpg
+Poland,POL,2017,32223349.0,High income,High income,0.87,Warsaw,Europe,Central Europe,https://flagcdn.com/w320/pl.png,..\output\imagenes_procesadas\pl.jpg
+Portugal,PRT,2017,8871342.0,High income,High income,0.92,Lisbon,Europe,Southern Europe,https://flagcdn.com/w320/pt.png,..\output\imagenes_procesadas\pt.jpg
+Romania,ROU,2017,16606939.0,High income,High income,0.58,Bucharest,Europe,Eastern Europe,https://flagcdn.com/w320/ro.png,..\output\imagenes_procesadas\ro.jpg
+Russian Federation,RUS,2017,120066877.0,Europe & Central Asia (excluding high income),Upper middle income,0.76,Moscow,Europe,Eastern Europe,https://flagcdn.com/w320/ru.png,..\output\imagenes_procesadas\ru.jpg
+Rwanda,RWA,2017,7050113.0,Sub-Saharan Africa (excluding high income),Low income,0.5,Kigali,Africa,Eastern Africa,https://flagcdn.com/w320/rw.png,..\output\imagenes_procesadas\rw.jpg
+Saudi Arabia,SAU,2017,23241801.0,High income,High income,0.72,Riyadh,Asia,Western Asia,https://flagcdn.com/w320/sa.png,..\output\imagenes_procesadas\sa.jpg
+Senegal,SEN,2017,8705549.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.42,Dakar,Africa,Western Africa,https://flagcdn.com/w320/sn.png,..\output\imagenes_procesadas\sn.jpg
+Serbia,SRB,2017,6046629.0,Europe & Central Asia (excluding high income),Upper middle income,0.71,Belgrade,Europe,Southern Europe,https://flagcdn.com/w320/rs.png,..\output\imagenes_procesadas\rs.jpg
+Sierra Leone,SLE,2017,4219730.0,Sub-Saharan Africa (excluding high income),Low income,0.2,Freetown,Africa,Western Africa,https://flagcdn.com/w320/sl.png,..\output\imagenes_procesadas\sl.jpg
+Singapore,SGP,2017,4905185.0,High income,High income,0.98,Singapore,Asia,South-Eastern Asia,https://flagcdn.com/w320/sg.png,..\output\imagenes_procesadas\sg.jpg
+Slovenia,SVN,2017,1756994.0,High income,High income,0.98,Ljubljana,Europe,Southern Europe,https://flagcdn.com/w320/si.png,..\output\imagenes_procesadas\si.jpg
+South Africa,ZAF,2017,41039555.0,Sub-Saharan Africa (excluding high income),Upper middle income,0.69,Pretoria,Africa,Southern Africa,https://flagcdn.com/w320/za.png,..\output\imagenes_procesadas\za.jpg
+South Sudan,SSD,2017,6092487.0,Sub-Saharan Africa (excluding high income),Low income,0.09,Juba,Africa,Middle Africa,https://flagcdn.com/w320/ss.png,..\output\imagenes_procesadas\ss.jpg
+Spain,ESP,2017,39549433.0,High income,High income,0.94,Madrid,Europe,Southern Europe,https://flagcdn.com/w320/es.png,..\output\imagenes_procesadas\es.jpg
+Sri Lanka,LKA,2017,16017388.0,South Asia (excluding high income),Lower middle income,0.74,Sri Jayawardenepura Kotte,Asia,Southern Asia,https://flagcdn.com/w320/lk.png,..\output\imagenes_procesadas\lk.jpg
+Sweden,SWE,2017,8184039.0,High income,High income,1.0,Stockholm,Europe,Northern Europe,https://flagcdn.com/w320/se.png,..\output\imagenes_procesadas\se.jpg
+Switzerland,CHE,2017,7127704.0,High income,High income,0.98,Bern,Europe,Central Europe,https://flagcdn.com/w320/ch.png,..\output\imagenes_procesadas\ch.jpg
+Tajikistan,TJK,2017,5649763.0,Europe & Central Asia (excluding high income),Lower middle income,0.47,Dushanbe,Asia,Central Asia,https://flagcdn.com/w320/tj.png,..\output\imagenes_procesadas\tj.jpg
+Tanzania,TZA,2017,30023264.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.47,Dodoma,Africa,Eastern Africa,https://flagcdn.com/w320/tz.png,..\output\imagenes_procesadas\tz.jpg
+Thailand,THA,2017,58293189.0,East Asia & Pacific (excluding high income),Upper middle income,0.82,Bangkok,Asia,South-Eastern Asia,https://flagcdn.com/w320/th.png,..\output\imagenes_procesadas\th.jpg
+Togo,TGO,2017,4608431.0,Sub-Saharan Africa (excluding high income),Low income,0.45,Lomé,Africa,Western Africa,https://flagcdn.com/w320/tg.png,..\output\imagenes_procesadas\tg.jpg
+Trinidad and Tobago,TTO,2017,1090252.0,High income,High income,0.81,Port of Spain,Americas,Caribbean,https://flagcdn.com/w320/tt.png,..\output\imagenes_procesadas\tt.jpg
+Tunisia,TUN,2017,8662597.0,Middle East & North Africa (excluding high income),Lower middle income,0.37,Tunis,Africa,Northern Africa,https://flagcdn.com/w320/tn.png,..\output\imagenes_procesadas\tn.jpg
+Turkmenistan,TKM,2017,4458186.0,Europe & Central Asia (excluding high income),Upper middle income,0.41,Ashgabat,Asia,Central Asia,https://flagcdn.com/w320/tm.png,..\output\imagenes_procesadas\tm.jpg
+Uganda,UGA,2017,20360656.0,Sub-Saharan Africa (excluding high income),Low income,0.59,Kampala,Africa,Eastern Africa,https://flagcdn.com/w320/ug.png,..\output\imagenes_procesadas\ug.jpg
+Ukraine,UKR,2017,38655749.0,Europe & Central Asia (excluding high income),Lower middle income,0.63,Kyiv,Europe,Eastern Europe,https://flagcdn.com/w320/ua.png,..\output\imagenes_procesadas\ua.jpg
+United Arab Emirates,ARE,2017,7433015.0,High income,High income,0.88,Abu Dhabi,Asia,Western Asia,https://flagcdn.com/w320/ae.png,..\output\imagenes_procesadas\ae.jpg
+United Kingdom,GBR,2017,53834160.0,High income,High income,0.96,London,Europe,Northern Europe,https://flagcdn.com/w320/gb.png,..\output\imagenes_procesadas\gb.jpg
+United States,USA,2017,261470917.0,High income,High income,0.93,,Americas,Northern America,https://flagcdn.com/w320/um.png,..\output\imagenes_procesadas\um.jpg
+Uruguay,URY,2017,2670291.0,High income,High income,0.64,Montevideo,Americas,South America,https://flagcdn.com/w320/uy.png,..\output\imagenes_procesadas\uy.jpg
+Uzbekistan,UZB,2017,22359293.0,Europe & Central Asia (excluding high income),Lower middle income,0.37,Tashkent,Asia,Central Asia,https://flagcdn.com/w320/uz.png,..\output\imagenes_procesadas\uz.jpg
+Zambia,ZMB,2017,9326870.0,Sub-Saharan Africa (excluding high income),Low income,0.46,Lusaka,Africa,Eastern Africa,https://flagcdn.com/w320/zm.png,..\output\imagenes_procesadas\zm.jpg
+Zimbabwe,ZWE,2017,8235262.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.55,Harare,Africa,Southern Africa,https://flagcdn.com/w320/zw.png,..\output\imagenes_procesadas\zw.jpg
+Afghanistan,AFG,2021,21791072.0,South Asia (excluding high income),Low income,0.1,Kabul,Asia,Southern Asia,https://flagcdn.com/w320/af.png,..\output\imagenes_procesadas\af.jpg
+Albania,ALB,2021,2340601.0,Europe & Central Asia (excluding high income),Upper middle income,0.44,Tirana,Europe,Southern Europe,https://flagcdn.com/w320/al.png,..\output\imagenes_procesadas\al.jpg
+Algeria,DZA,2021,30458426.0,Middle East & North Africa (excluding high income),Lower middle income,0.44,Algiers,Africa,Northern Africa,https://flagcdn.com/w320/dz.png,..\output\imagenes_procesadas\dz.jpg
+Argentina,ARG,2021,34481880.0,Latin America & Caribbean (excluding high income),Upper middle income,0.72,Buenos Aires,Americas,South America,https://flagcdn.com/w320/ar.png,..\output\imagenes_procesadas\ar.jpg
+Armenia,ARM,2021,2364189.0,Europe & Central Asia (excluding high income),Upper middle income,0.55,Yerevan,Asia,Western Asia,https://flagcdn.com/w320/am.png,..\output\imagenes_procesadas\am.jpg
+Australia,AUS,2021,20888823.0,High income,High income,0.99,Canberra,Oceania,Australia and New Zealand,https://flagcdn.com/w320/au.png,..\output\imagenes_procesadas\au.jpg
+Austria,AUT,2021,7633446.0,High income,High income,1.0,Vienna,Europe,Central Europe,https://flagcdn.com/w320/at.png,..\output\imagenes_procesadas\at.jpg
+Azerbaijan,AZE,2022,7732344.0,Europe & Central Asia (excluding high income),Upper middle income,0.46,Baku,Asia,Western Asia,https://flagcdn.com/w320/az.png,..\output\imagenes_procesadas\az.jpg
+Bangladesh,BGD,2021,117641793.0,South Asia (excluding high income),Lower middle income,0.53,Dhaka,Asia,Southern Asia,https://flagcdn.com/w320/bd.png,..\output\imagenes_procesadas\bd.jpg
+Belgium,BEL,2021,9600074.0,High income,High income,0.99,Brussels,Europe,Western Europe,https://flagcdn.com/w320/be.png,..\output\imagenes_procesadas\be.jpg
+Benin,BEN,2021,7495327.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.49,Porto-Novo,Africa,Western Africa,https://flagcdn.com/w320/bj.png,..\output\imagenes_procesadas\bj.jpg
+Bolivia,BOL,2021,8150856.0,Latin America & Caribbean (excluding high income),Lower middle income,0.69,Sucre,Americas,South America,https://flagcdn.com/w320/bo.png,..\output\imagenes_procesadas\bo.jpg
+Bosnia and Herzegovina,BIH,2021,2851847.0,Europe & Central Asia (excluding high income),Upper middle income,0.79,Sarajevo,Europe,Southern Europe,https://flagcdn.com/w320/ba.png,..\output\imagenes_procesadas\ba.jpg
+Botswana,BWA,2022,1588124.0,Sub-Saharan Africa (excluding high income),Upper middle income,0.59,Gaborone,Africa,Southern Africa,https://flagcdn.com/w320/bw.png,..\output\imagenes_procesadas\bw.jpg
+Brazil,BRA,2021,165349748.0,Latin America & Caribbean (excluding high income),Upper middle income,0.84,Brasília,Americas,South America,https://flagcdn.com/w320/br.png,..\output\imagenes_procesadas\br.jpg
+Bulgaria,BGR,2021,5933315.0,Europe & Central Asia (excluding high income),Upper middle income,0.84,Sofia,Europe,Eastern Europe,https://flagcdn.com/w320/bg.png,..\output\imagenes_procesadas\bg.jpg
+Burkina Faso,BFA,2021,12018028.0,Sub-Saharan Africa (excluding high income),Low income,0.36,Ouagadougou,Africa,Western Africa,https://flagcdn.com/w320/bf.png,..\output\imagenes_procesadas\bf.jpg
+Cambodia,KHM,2021,11527565.0,East Asia & Pacific (excluding high income),Lower middle income,0.33,Phnom Penh,Asia,South-Eastern Asia,https://flagcdn.com/w320/kh.png,..\output\imagenes_procesadas\kh.jpg
+Cameroon,CMR,2021,15059599.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.52,Yaoundé,Africa,Middle Africa,https://flagcdn.com/w320/cm.png,..\output\imagenes_procesadas\cm.jpg
+Canada,CAN,2021,31991096.0,High income,High income,1.0,Ottawa,Americas,Northern America,https://flagcdn.com/w320/ca.png,..\output\imagenes_procesadas\ca.jpg
+Chad,TCD,2022,8962706.0,Sub-Saharan Africa (excluding high income),Low income,0.24,N'Djamena,Africa,Middle Africa,https://flagcdn.com/w320/td.png,..\output\imagenes_procesadas\td.jpg
+Chile,CHL,2021,15803947.0,High income,High income,0.87,Santiago,Americas,South America,https://flagcdn.com/w320/cl.png,..\output\imagenes_procesadas\cl.jpg
+China,CHN,2021,1157739289.0,East Asia & Pacific (excluding high income),Upper middle income,0.89,Beijing,Asia,Eastern Asia,https://flagcdn.com/w320/cn.png,..\output\imagenes_procesadas\cn.jpg
+Colombia,COL,2021,39661157.0,Latin America & Caribbean (excluding high income),Upper middle income,0.6,Bogotá,Americas,South America,https://flagcdn.com/w320/co.png,..\output\imagenes_procesadas\co.jpg
+Comoros,COM,2022,495193.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.34,Moroni,Africa,Eastern Africa,https://flagcdn.com/w320/km.png,..\output\imagenes_procesadas\km.jpg
+Costa Rica,CRI,2021,3990389.0,Latin America & Caribbean (excluding high income),Upper middle income,0.68,San José,Americas,Central America,https://flagcdn.com/w320/cr.png,..\output\imagenes_procesadas\cr.jpg
+Croatia,HRV,2021,3348534.0,High income,High income,0.92,Zagreb,Europe,Southern Europe,https://flagcdn.com/w320/hr.png,..\output\imagenes_procesadas\hr.jpg
+Cyprus,CYP,2021,1094549.0,High income,High income,0.93,Nicosia,Europe,Southern Europe,https://flagcdn.com/w320/cy.png,..\output\imagenes_procesadas\cy.jpg
+Denmark,DNK,2021,4880509.0,High income,High income,1.0,Copenhagen,Europe,Northern Europe,https://flagcdn.com/w320/dk.png,..\output\imagenes_procesadas\dk.jpg
+Dominican Republic,DOM,2021,7960918.0,Latin America & Caribbean (excluding high income),Upper middle income,0.51,Santo Domingo,Americas,Caribbean,https://flagcdn.com/w320/do.png,..\output\imagenes_procesadas\do.jpg
+Ecuador,ECU,2021,12914981.0,Latin America & Caribbean (excluding high income),Upper middle income,0.64,Quito,Americas,South America,https://flagcdn.com/w320/ec.png,..\output\imagenes_procesadas\ec.jpg
+El Salvador,SLV,2021,4592875.0,Latin America & Caribbean (excluding high income),Lower middle income,0.36,San Salvador,Americas,Central America,https://flagcdn.com/w320/sv.png,..\output\imagenes_procesadas\sv.jpg
+Estonia,EST,2021,1110971.0,High income,High income,0.99,Tallinn,Europe,Northern Europe,https://flagcdn.com/w320/ee.png,..\output\imagenes_procesadas\ee.jpg
+Ethiopia,ETH,2022,70814574.0,Sub-Saharan Africa (excluding high income),Low income,0.46,Addis Ababa,Africa,Eastern Africa,https://flagcdn.com/w320/et.png,..\output\imagenes_procesadas\et.jpg
+Finland,FIN,2021,4663598.0,High income,High income,1.0,Helsinki,Europe,Northern Europe,https://flagcdn.com/w320/fi.png,..\output\imagenes_procesadas\fi.jpg
+France,FRA,2021,55812045.0,High income,High income,0.99,Paris,Europe,Western Europe,https://flagcdn.com/w320/fr.png,..\output\imagenes_procesadas\fr.jpg
+Gabon,GAB,2021,1467427.0,Sub-Saharan Africa (excluding high income),Upper middle income,0.66,Libreville,Africa,Middle Africa,https://flagcdn.com/w320/ga.png,..\output\imagenes_procesadas\ga.jpg
+Georgia,GEO,2021,2940933.0,Europe & Central Asia (excluding high income),Upper middle income,0.7,Tbilisi,Asia,Western Asia,https://flagcdn.com/w320/ge.png,..\output\imagenes_procesadas\ge.jpg
+Germany,DEU,2021,71716499.0,High income,High income,1.0,Berlin,Europe,Central Europe,https://flagcdn.com/w320/de.png,..\output\imagenes_procesadas\de.jpg
+Ghana,GHA,2021,20017745.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.68,Accra,Africa,Western Africa,https://flagcdn.com/w320/gh.png,..\output\imagenes_procesadas\gh.jpg
+Greece,GRC,2021,9182577.0,High income,High income,0.95,Athens,Europe,Southern Europe,https://flagcdn.com/w320/gr.png,..\output\imagenes_procesadas\gr.jpg
+Guatemala,GTM,2022,11489738.0,Latin America & Caribbean (excluding high income),Upper middle income,0.37,Guatemala City,Americas,Central America,https://flagcdn.com/w320/gt.png,..\output\imagenes_procesadas\gt.jpg
+Guinea,GIN,2021,7735937.0,Sub-Saharan Africa (excluding high income),Low income,0.3,Conakry,Africa,Western Africa,https://flagcdn.com/w320/gn.png,..\output\imagenes_procesadas\gn.jpg
+Honduras,HND,2021,6863097.0,Latin America & Caribbean (excluding high income),Lower middle income,0.38,Tegucigalpa,Americas,Central America,https://flagcdn.com/w320/hn.png,..\output\imagenes_procesadas\hn.jpg
+Hungary,HUN,2021,8330756.0,High income,High income,0.88,Budapest,Europe,Central Europe,https://flagcdn.com/w320/hu.png,..\output\imagenes_procesadas\hu.jpg
+Iceland,ISL,2021,297833.0,High income,High income,1.0,Reykjavík,Europe,Northern Europe,https://flagcdn.com/w320/is.png,..\output\imagenes_procesadas\is.jpg
+India,IND,2021,1033092817.0,South Asia (excluding high income),Lower middle income,0.78,New Delhi,Asia,Southern Asia,https://flagcdn.com/w320/in.png,..\output\imagenes_procesadas\in.jpg
+Indonesia,IDN,2021,203818030.0,East Asia & Pacific (excluding high income),Lower middle income,0.52,Jakarta,Asia,South-Eastern Asia,https://flagcdn.com/w320/id.png,..\output\imagenes_procesadas\id.jpg
+Iraq,IRQ,2021,25903954.0,Middle East & North Africa (excluding high income),Upper middle income,0.19,Baghdad,Asia,Western Asia,https://flagcdn.com/w320/iq.png,..\output\imagenes_procesadas\iq.jpg
+Ireland,IRL,2021,3983258.0,High income,High income,1.0,Dublin,Europe,Northern Europe,https://flagcdn.com/w320/ie.png,..\output\imagenes_procesadas\ie.jpg
+Israel,ISR,2021,6631697.0,High income,High income,0.93,Jerusalem,Asia,Western Asia,https://flagcdn.com/w320/il.png,..\output\imagenes_procesadas\il.jpg
+Italy,ITA,2021,51815239.0,High income,High income,0.97,Rome,Europe,Southern Europe,https://flagcdn.com/w320/it.png,..\output\imagenes_procesadas\it.jpg
+Jamaica,JAM,2021,2248537.0,Latin America & Caribbean (excluding high income),Upper middle income,0.73,Kingston,Americas,Caribbean,https://flagcdn.com/w320/jm.png,..\output\imagenes_procesadas\jm.jpg
+Japan,JPN,2021,110830955.0,High income,High income,0.98,Tokyo,Asia,Eastern Asia,https://flagcdn.com/w320/jp.png,..\output\imagenes_procesadas\jp.jpg
+Jordan,JOR,2021,7296924.0,Middle East & North Africa (excluding high income),Upper middle income,0.47,Amman,Asia,Western Asia,https://flagcdn.com/w320/jo.png,..\output\imagenes_procesadas\jo.jpg
+Kazakhstan,KAZ,2021,13791287.0,Europe & Central Asia (excluding high income),Upper middle income,0.81,Astana,Asia,Central Asia,https://flagcdn.com/w320/kz.png,..\output\imagenes_procesadas\kz.jpg
+Kenya,KEN,2021,31704189.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.79,Nairobi,Africa,Eastern Africa,https://flagcdn.com/w320/ke.png,..\output\imagenes_procesadas\ke.jpg
+Kosovo,XKX,2021,1385580.0,Europe & Central Asia (excluding high income),Upper middle income,0.58,Pristina,Europe,Eastern Europe,https://flagcdn.com/w320/xk.png,..\output\imagenes_procesadas\xk.jpg
+Latvia,LVA,2021,1596418.0,High income,High income,0.97,Riga,Europe,Northern Europe,https://flagcdn.com/w320/lv.png,..\output\imagenes_procesadas\lv.jpg
+Lebanon,LBN,2021,4108774.0,Middle East & North Africa (excluding high income),Lower middle income,0.21,Beirut,Asia,Western Asia,https://flagcdn.com/w320/lb.png,..\output\imagenes_procesadas\lb.jpg
+Lesotho,LSO,2022,1434393.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.64,Maseru,Africa,Southern Africa,https://flagcdn.com/w320/ls.png,..\output\imagenes_procesadas\ls.jpg
+Liberia,LBR,2021,3018782.0,Sub-Saharan Africa (excluding high income),Low income,0.52,Monrovia,Africa,Western Africa,https://flagcdn.com/w320/lr.png,..\output\imagenes_procesadas\lr.jpg
+Lithuania,LTU,2021,2372426.0,High income,High income,0.94,Vilnius,Europe,Northern Europe,https://flagcdn.com/w320/lt.png,..\output\imagenes_procesadas\lt.jpg
+Madagascar,MDG,2022,17259462.0,Sub-Saharan Africa (excluding high income),Low income,0.26,Antananarivo,Africa,Eastern Africa,https://flagcdn.com/w320/mg.png,..\output\imagenes_procesadas\mg.jpg
+Malawi,MWI,2021,11111253.0,Sub-Saharan Africa (excluding high income),Low income,0.43,Lilongwe,Africa,Eastern Africa,https://flagcdn.com/w320/mw.png,..\output\imagenes_procesadas\mw.jpg
+Malaysia,MYS,2021,25769271.0,East Asia & Pacific (excluding high income),Upper middle income,0.88,Kuala Lumpur,Asia,South-Eastern Asia,https://flagcdn.com/w320/my.png,..\output\imagenes_procesadas\my.jpg
+Mali,MLI,2021,11438992.0,Sub-Saharan Africa (excluding high income),Low income,0.44,Bamako,Africa,Western Africa,https://flagcdn.com/w320/ml.png,..\output\imagenes_procesadas\ml.jpg
+Malta,MLT,2021,446624.0,High income,High income,0.96,Valletta,Europe,Southern Europe,https://flagcdn.com/w320/mt.png,..\output\imagenes_procesadas\mt.jpg
+Mauritania,MRT,2022,2584547.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.23,Nouakchott,Africa,Western Africa,https://flagcdn.com/w320/mr.png,..\output\imagenes_procesadas\mr.jpg
+Mauritius,MUS,2021,1058961.0,Sub-Saharan Africa (excluding high income),Upper middle income,0.91,Port Louis,Africa,Eastern Africa,https://flagcdn.com/w320/mu.png,..\output\imagenes_procesadas\mu.jpg
+Mexico,MEX,2022,93851214.0,Latin America & Caribbean (excluding high income),Upper middle income,0.49,Mexico City,Americas,North America,https://flagcdn.com/w320/mx.png,..\output\imagenes_procesadas\mx.jpg
+Moldova,MDA,2021,2108305.0,Europe & Central Asia (excluding high income),Upper middle income,0.64,Chișinău,Europe,Eastern Europe,https://flagcdn.com/w320/md.png,..\output\imagenes_procesadas\md.jpg
+Mongolia,MNG,2021,2237019.0,East Asia & Pacific (excluding high income),Lower middle income,0.98,Ulan Bator,Asia,Eastern Asia,https://flagcdn.com/w320/mn.png,..\output\imagenes_procesadas\mn.jpg
+Morocco,MAR,2021,26706787.0,Middle East & North Africa (excluding high income),Lower middle income,0.44,Rabat,Africa,Northern Africa,https://flagcdn.com/w320/ma.png,..\output\imagenes_procesadas\ma.jpg
+Mozambique,MOZ,2021,16874256.0,Sub-Saharan Africa (excluding high income),Low income,0.49,Maputo,Africa,Eastern Africa,https://flagcdn.com/w320/mz.png,..\output\imagenes_procesadas\mz.jpg
+Myanmar,MMR,2021,39685121.0,East Asia & Pacific (excluding high income),Lower middle income,0.48,Naypyidaw,Asia,South-Eastern Asia,https://flagcdn.com/w320/mm.png,..\output\imagenes_procesadas\mm.jpg
+Namibia,NAM,2021,1715314.0,Sub-Saharan Africa (excluding high income),Upper middle income,0.71,Windhoek,Africa,Southern Africa,https://flagcdn.com/w320/na.png,..\output\imagenes_procesadas\na.jpg
+Nepal,NPL,2021,20254590.0,South Asia (excluding high income),Lower middle income,0.54,Kathmandu,Asia,Southern Asia,https://flagcdn.com/w320/np.png,..\output\imagenes_procesadas\np.jpg
+Netherlands,NLD,2021,14717214.0,High income,High income,1.0,Amsterdam,Europe,Western Europe,https://flagcdn.com/w320/nl.png,..\output\imagenes_procesadas\nl.jpg
+New Zealand,NZL,2021,4122094.0,High income,High income,0.99,Wellington,Oceania,Australia and New Zealand,https://flagcdn.com/w320/nz.png,..\output\imagenes_procesadas\nz.jpg
+Nicaragua,NIC,2021,4567953.0,Latin America & Caribbean (excluding high income),Lower middle income,0.26,Managua,Americas,Central America,https://flagcdn.com/w320/ni.png,..\output\imagenes_procesadas\ni.jpg
+Niger,NER,2022,12328593.0,Sub-Saharan Africa (excluding high income),Low income,0.12,Niamey,Africa,Western Africa,https://flagcdn.com/w320/ne.png,..\output\imagenes_procesadas\ne.jpg
+Nigeria,NGA,2021,122350743.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.45,Abuja,Africa,Western Africa,https://flagcdn.com/w320/ng.png,..\output\imagenes_procesadas\ng.jpg
+North Macedonia,MKD,2021,1536653.0,Europe & Central Asia (excluding high income),Upper middle income,0.85,Skopje,Europe,Southern Europe,https://flagcdn.com/w320/mk.png,..\output\imagenes_procesadas\mk.jpg
+Norway,NOR,2021,4453612.0,High income,High income,0.99,Oslo,Europe,Northern Europe,https://flagcdn.com/w320/no.png,..\output\imagenes_procesadas\no.jpg
+Pakistan,PAK,2021,146030491.0,South Asia (excluding high income),Lower middle income,0.21,Islamabad,Asia,Southern Asia,https://flagcdn.com/w320/pk.png,..\output\imagenes_procesadas\pk.jpg
+Panama,PAN,2021,3160275.0,High income,High income,0.45,Panama City,Americas,Central America,https://flagcdn.com/w320/pa.png,..\output\imagenes_procesadas\pa.jpg
+Paraguay,PRY,2021,4679787.0,Latin America & Caribbean (excluding high income),Upper middle income,0.54,Asunción,Americas,South America,https://flagcdn.com/w320/py.png,..\output\imagenes_procesadas\py.jpg
+Peru,PER,2021,24463530.0,Latin America & Caribbean (excluding high income),Upper middle income,0.57,Lima,Americas,South America,https://flagcdn.com/w320/pe.png,..\output\imagenes_procesadas\pe.jpg
+Philippines,PHL,2021,77692157.0,East Asia & Pacific (excluding high income),Lower middle income,0.51,Manila,Asia,South-Eastern Asia,https://flagcdn.com/w320/ph.png,..\output\imagenes_procesadas\ph.jpg
+Poland,POL,2021,32028961.0,High income,High income,0.96,Warsaw,Europe,Central Europe,https://flagcdn.com/w320/pl.png,..\output\imagenes_procesadas\pl.jpg
+Portugal,PRT,2021,8923687.0,High income,High income,0.93,Lisbon,Europe,Southern Europe,https://flagcdn.com/w320/pt.png,..\output\imagenes_procesadas\pt.jpg
+Romania,ROU,2021,16163817.0,High income,High income,0.69,Bucharest,Europe,Eastern Europe,https://flagcdn.com/w320/ro.png,..\output\imagenes_procesadas\ro.jpg
+Russian Federation,RUS,2021,119582441.0,Europe & Central Asia (excluding high income),Upper middle income,0.9,Moscow,Europe,Eastern Europe,https://flagcdn.com/w320/ru.png,..\output\imagenes_procesadas\ru.jpg
+Saudi Arabia,SAU,2021,23509479.0,High income,High income,0.74,Riyadh,Asia,Western Asia,https://flagcdn.com/w320/sa.png,..\output\imagenes_procesadas\sa.jpg
+Senegal,SEN,2021,10017948.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.56,Dakar,Africa,Western Africa,https://flagcdn.com/w320/sn.png,..\output\imagenes_procesadas\sn.jpg
+Serbia,SRB,2021,5915242.0,Europe & Central Asia (excluding high income),Upper middle income,0.89,Belgrade,Europe,Southern Europe,https://flagcdn.com/w320/rs.png,..\output\imagenes_procesadas\rs.jpg
+Sierra Leone,SLE,2021,4762478.0,Sub-Saharan Africa (excluding high income),Low income,0.29,Freetown,Africa,Western Africa,https://flagcdn.com/w320/sl.png,..\output\imagenes_procesadas\sl.jpg
+Singapore,SGP,2021,4993587.0,High income,High income,0.98,Singapore,Asia,South-Eastern Asia,https://flagcdn.com/w320/sg.png,..\output\imagenes_procesadas\sg.jpg
+Slovenia,SVN,2021,1784150.0,High income,High income,0.99,Ljubljana,Europe,Southern Europe,https://flagcdn.com/w320/si.png,..\output\imagenes_procesadas\si.jpg
+South Africa,ZAF,2021,44211052.0,Sub-Saharan Africa (excluding high income),Upper middle income,0.85,Pretoria,Africa,Southern Africa,https://flagcdn.com/w320/za.png,..\output\imagenes_procesadas\za.jpg
+South Sudan,SSD,2021,6159568.0,Sub-Saharan Africa (excluding high income),Low income,0.06,Juba,Africa,Middle Africa,https://flagcdn.com/w320/ss.png,..\output\imagenes_procesadas\ss.jpg
+Spain,ESP,2021,40639965.0,High income,High income,0.98,Madrid,Europe,Southern Europe,https://flagcdn.com/w320/es.png,..\output\imagenes_procesadas\es.jpg
+Sri Lanka,LKA,2021,16803664.0,South Asia (excluding high income),Lower middle income,0.89,Sri Jayawardenepura Kotte,Asia,Southern Asia,https://flagcdn.com/w320/lk.png,..\output\imagenes_procesadas\lk.jpg
+Sweden,SWE,2021,8517166.0,High income,High income,1.0,Stockholm,Europe,Northern Europe,https://flagcdn.com/w320/se.png,..\output\imagenes_procesadas\se.jpg
+Switzerland,CHE,2021,7337959.0,High income,High income,0.99,Bern,Europe,Central Europe,https://flagcdn.com/w320/ch.png,..\output\imagenes_procesadas\ch.jpg
+Tajikistan,TJK,2021,6196225.0,Europe & Central Asia (excluding high income),Lower middle income,0.39,Dushanbe,Asia,Central Asia,https://flagcdn.com/w320/tj.png,..\output\imagenes_procesadas\tj.jpg
+Tanzania,TZA,2021,34527295.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.52,Dodoma,Africa,Eastern Africa,https://flagcdn.com/w320/tz.png,..\output\imagenes_procesadas\tz.jpg
+Thailand,THA,2021,60059109.0,East Asia & Pacific (excluding high income),Upper middle income,0.96,Bangkok,Asia,South-Eastern Asia,https://flagcdn.com/w320/th.png,..\output\imagenes_procesadas\th.jpg
+Togo,TGO,2021,5137794.0,Sub-Saharan Africa (excluding high income),Low income,0.5,Lomé,Africa,Western Africa,https://flagcdn.com/w320/tg.png,..\output\imagenes_procesadas\tg.jpg
+Tunisia,TUN,2021,8970562.0,Middle East & North Africa (excluding high income),Lower middle income,0.37,Tunis,Africa,Northern Africa,https://flagcdn.com/w320/tn.png,..\output\imagenes_procesadas\tn.jpg
+Uganda,UGA,2021,24351947.0,Sub-Saharan Africa (excluding high income),Low income,0.66,Kampala,Africa,Eastern Africa,https://flagcdn.com/w320/ug.png,..\output\imagenes_procesadas\ug.jpg
+Ukraine,UKR,2021,37851388.0,Europe & Central Asia (excluding high income),Lower middle income,0.84,Kyiv,Europe,Eastern Europe,https://flagcdn.com/w320/ua.png,..\output\imagenes_procesadas\ua.jpg
+United Arab Emirates,ARE,2021,7842387.0,High income,High income,0.86,Abu Dhabi,Asia,Western Asia,https://flagcdn.com/w320/ae.png,..\output\imagenes_procesadas\ae.jpg
+United Kingdom,GBR,2021,55029201.0,High income,High income,1.0,London,Europe,Northern Europe,https://flagcdn.com/w320/gb.png,..\output\imagenes_procesadas\gb.jpg
+United States,USA,2021,270549658.0,High income,High income,0.95,,Americas,Northern America,https://flagcdn.com/w320/um.png,..\output\imagenes_procesadas\um.jpg
+Uruguay,URY,2021,2725712.0,High income,High income,0.74,Montevideo,Americas,South America,https://flagcdn.com/w320/uy.png,..\output\imagenes_procesadas\uy.jpg
+Uzbekistan,UZB,2021,23599241.0,Europe & Central Asia (excluding high income),Lower middle income,0.44,Tashkent,Asia,Central Asia,https://flagcdn.com/w320/uz.png,..\output\imagenes_procesadas\uz.jpg
+Zambia,ZMB,2021,10800121.0,Sub-Saharan Africa (excluding high income),Low income,0.49,Lusaka,Africa,Eastern Africa,https://flagcdn.com/w320/zm.png,..\output\imagenes_procesadas\zm.jpg
+Zimbabwe,ZWE,2021,8977056.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.6,Harare,Africa,Southern Africa,https://flagcdn.com/w320/zw.png,..\output\imagenes_procesadas\zw.jpg
+Albania,ALB,2024,2278004.0,Europe & Central Asia (excluding high income),Upper middle income,0.46,Tirana,Europe,Southern Europe,https://flagcdn.com/w320/al.png,..\output\imagenes_procesadas\al.jpg
+Algeria,DZA,2024,32019804.0,Middle East & North Africa (excluding high income),Lower middle income,0.35,Algiers,Africa,Northern Africa,https://flagcdn.com/w320/dz.png,..\output\imagenes_procesadas\dz.jpg
+Argentina,ARG,2024,35433130.0,Latin America & Caribbean (excluding high income),Upper middle income,0.82,Buenos Aires,Americas,South America,https://flagcdn.com/w320/ar.png,..\output\imagenes_procesadas\ar.jpg
+Armenia,ARM,2024,2406318.0,Europe & Central Asia (excluding high income),Upper middle income,0.71,Yerevan,Asia,Western Asia,https://flagcdn.com/w320/am.png,..\output\imagenes_procesadas\am.jpg
+Australia,AUS,2024,21852264.0,High income,High income,0.98,Canberra,Oceania,Australia and New Zealand,https://flagcdn.com/w320/au.png,..\output\imagenes_procesadas\au.jpg
+Austria,AUT,2024,7825678.0,High income,High income,1.0,Vienna,Europe,Central Europe,https://flagcdn.com/w320/at.png,..\output\imagenes_procesadas\at.jpg
+Azerbaijan,AZE,2024,7885113.0,Europe & Central Asia (excluding high income),Upper middle income,0.56,Baku,Asia,Western Asia,https://flagcdn.com/w320/az.png,..\output\imagenes_procesadas\az.jpg
+Bahrain,BHR,2024,1277545.0,High income,High income,0.82,Manama,Asia,Western Asia,https://flagcdn.com/w320/bh.png,..\output\imagenes_procesadas\bh.jpg
+Bangladesh,BGD,2024,122837439.0,South Asia (excluding high income),Lower middle income,0.43,Dhaka,Asia,Southern Asia,https://flagcdn.com/w320/bd.png,..\output\imagenes_procesadas\bd.jpg
+Belgium,BEL,2024,9867164.0,High income,High income,0.98,Brussels,Europe,Western Europe,https://flagcdn.com/w320/be.png,..\output\imagenes_procesadas\be.jpg
+Belize,BLZ,2024,300138.0,Latin America & Caribbean (excluding high income),Upper middle income,0.68,Belmopan,Americas,Central America,https://flagcdn.com/w320/bz.png,..\output\imagenes_procesadas\bz.jpg
+Benin,BEN,2024,8207504.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.52,Porto-Novo,Africa,Western Africa,https://flagcdn.com/w320/bj.png,..\output\imagenes_procesadas\bj.jpg
+Bolivia,BOL,2024,8553476.0,Latin America & Caribbean (excluding high income),Lower middle income,0.57,Sucre,Americas,South America,https://flagcdn.com/w320/bo.png,..\output\imagenes_procesadas\bo.jpg
+Bosnia and Herzegovina,BIH,2024,2764009.0,Europe & Central Asia (excluding high income),Upper middle income,0.77,Sarajevo,Europe,Southern Europe,https://flagcdn.com/w320/ba.png,..\output\imagenes_procesadas\ba.jpg
+Botswana,BWA,2024,1679590.0,Sub-Saharan Africa (excluding high income),Upper middle income,0.61,Gaborone,Africa,Southern Africa,https://flagcdn.com/w320/bw.png,..\output\imagenes_procesadas\bw.jpg
+Brazil,BRA,2024,169047814.0,Latin America & Caribbean (excluding high income),Upper middle income,0.86,Brasília,Americas,South America,https://flagcdn.com/w320/br.png,..\output\imagenes_procesadas\br.jpg
+Bulgaria,BGR,2024,5509377.0,Europe & Central Asia (excluding high income),Upper middle income,0.85,Sofia,Europe,Eastern Europe,https://flagcdn.com/w320/bg.png,..\output\imagenes_procesadas\bg.jpg
+Burkina Faso,BFA,2024,13262560.0,Sub-Saharan Africa (excluding high income),Low income,0.51,Ouagadougou,Africa,Western Africa,https://flagcdn.com/w320/bf.png,..\output\imagenes_procesadas\bf.jpg
+Cambodia,KHM,2024,12177453.0,East Asia & Pacific (excluding high income),Lower middle income,0.39,Phnom Penh,Asia,South-Eastern Asia,https://flagcdn.com/w320/kh.png,..\output\imagenes_procesadas\kh.jpg
+Cameroon,CMR,2024,16524096.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.61,Yaoundé,Africa,Middle Africa,https://flagcdn.com/w320/cm.png,..\output\imagenes_procesadas\cm.jpg
+Canada,CAN,2024,33960981.0,High income,High income,0.98,Ottawa,Americas,Northern America,https://flagcdn.com/w320/ca.png,..\output\imagenes_procesadas\ca.jpg
+Chad,TCD,2024,10289880.0,Sub-Saharan Africa (excluding high income),Low income,0.21,N'Djamena,Africa,Middle Africa,https://flagcdn.com/w320/td.png,..\output\imagenes_procesadas\td.jpg
+Chile,CHL,2024,16241277.0,High income,High income,0.85,Santiago,Americas,South America,https://flagcdn.com/w320/cl.png,..\output\imagenes_procesadas\cl.jpg
+China,CHN,2024,1176678702.0,East Asia & Pacific (excluding high income),Upper middle income,0.89,Beijing,Asia,Eastern Asia,https://flagcdn.com/w320/cn.png,..\output\imagenes_procesadas\cn.jpg
+Colombia,COL,2024,41544122.0,Latin America & Caribbean (excluding high income),Upper middle income,0.57,Bogotá,Americas,South America,https://flagcdn.com/w320/co.png,..\output\imagenes_procesadas\co.jpg
+Comoros,COM,2024,532331.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.45,Moroni,Africa,Eastern Africa,https://flagcdn.com/w320/km.png,..\output\imagenes_procesadas\km.jpg
+Costa Rica,CRI,2024,4118576.0,Latin America & Caribbean (excluding high income),Upper middle income,0.71,San José,Americas,Central America,https://flagcdn.com/w320/cr.png,..\output\imagenes_procesadas\cr.jpg
+Croatia,HRV,2024,3313982.0,High income,High income,0.93,Zagreb,Europe,Southern Europe,https://flagcdn.com/w320/hr.png,..\output\imagenes_procesadas\hr.jpg
+Cyprus,CYP,2024,1129055.0,High income,High income,0.96,Nicosia,Europe,Southern Europe,https://flagcdn.com/w320/cy.png,..\output\imagenes_procesadas\cy.jpg
+Denmark,DNK,2024,5003352.0,High income,High income,0.99,Copenhagen,Europe,Northern Europe,https://flagcdn.com/w320/dk.png,..\output\imagenes_procesadas\dk.jpg
+Dominican Republic,DOM,2024,8281568.0,Latin America & Caribbean (excluding high income),Upper middle income,0.65,Santo Domingo,Americas,Caribbean,https://flagcdn.com/w320/do.png,..\output\imagenes_procesadas\do.jpg
+Ecuador,ECU,2024,13484219.0,Latin America & Caribbean (excluding high income),Upper middle income,0.65,Quito,Americas,South America,https://flagcdn.com/w320/ec.png,..\output\imagenes_procesadas\ec.jpg
+El Salvador,SLV,2024,4718943.0,Latin America & Caribbean (excluding high income),Lower middle income,0.43,San Salvador,Americas,Central America,https://flagcdn.com/w320/sv.png,..\output\imagenes_procesadas\sv.jpg
+Estonia,EST,2024,1151475.0,High income,High income,0.99,Tallinn,Europe,Northern Europe,https://flagcdn.com/w320/ee.png,..\output\imagenes_procesadas\ee.jpg
+Ethiopia,ETH,2024,78031387.0,Sub-Saharan Africa (excluding high income),Low income,0.49,Addis Ababa,Africa,Eastern Africa,https://flagcdn.com/w320/et.png,..\output\imagenes_procesadas\et.jpg
+Finland,FIN,2024,4749954.0,High income,High income,1.0,Helsinki,Europe,Northern Europe,https://flagcdn.com/w320/fi.png,..\output\imagenes_procesadas\fi.jpg
+France,FRA,2024,56825584.0,High income,High income,0.99,Paris,Europe,Western Europe,https://flagcdn.com/w320/fr.png,..\output\imagenes_procesadas\fr.jpg
+Gabon,GAB,2024,1573811.0,Sub-Saharan Africa (excluding high income),Upper middle income,0.68,Libreville,Africa,Middle Africa,https://flagcdn.com/w320/ga.png,..\output\imagenes_procesadas\ga.jpg
+Georgia,GEO,2024,2933716.0,Europe & Central Asia (excluding high income),Upper middle income,0.79,Tbilisi,Asia,Western Asia,https://flagcdn.com/w320/ge.png,..\output\imagenes_procesadas\ge.jpg
+Germany,DEU,2024,71691113.0,High income,High income,0.98,Berlin,Europe,Central Europe,https://flagcdn.com/w320/de.png,..\output\imagenes_procesadas\de.jpg
+Ghana,GHA,2024,21563813.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.81,Accra,Africa,Western Africa,https://flagcdn.com/w320/gh.png,..\output\imagenes_procesadas\gh.jpg
+Greece,GRC,2024,8991800.0,High income,High income,0.89,Athens,Europe,Southern Europe,https://flagcdn.com/w320/gr.png,..\output\imagenes_procesadas\gr.jpg
+Guatemala,GTM,2024,12299923.0,Latin America & Caribbean (excluding high income),Upper middle income,0.38,Guatemala City,Americas,Central America,https://flagcdn.com/w320/gt.png,..\output\imagenes_procesadas\gt.jpg
+Guinea,GIN,2024,8464230.0,Sub-Saharan Africa (excluding high income),Low income,0.36,Conakry,Africa,Western Africa,https://flagcdn.com/w320/gn.png,..\output\imagenes_procesadas\gn.jpg
+Honduras,HND,2024,7345357.0,Latin America & Caribbean (excluding high income),Lower middle income,0.42,Tegucigalpa,Americas,Central America,https://flagcdn.com/w320/hn.png,..\output\imagenes_procesadas\hn.jpg
+Hungary,HUN,2024,8202714.0,High income,High income,0.87,Budapest,Europe,Central Europe,https://flagcdn.com/w320/hu.png,..\output\imagenes_procesadas\hu.jpg
+Iceland,ISL,2024,322325.0,High income,High income,1.0,Reykjavík,Europe,Northern Europe,https://flagcdn.com/w320/is.png,..\output\imagenes_procesadas\is.jpg
+India,IND,2024,1077731602.0,South Asia (excluding high income),Lower middle income,0.89,New Delhi,Asia,Southern Asia,https://flagcdn.com/w320/in.png,..\output\imagenes_procesadas\in.jpg
+Indonesia,IDN,2024,211076339.0,East Asia & Pacific (excluding high income),Lower middle income,0.56,Jakarta,Asia,South-Eastern Asia,https://flagcdn.com/w320/id.png,..\output\imagenes_procesadas\id.jpg
+Iraq,IRQ,2024,28355455.0,Middle East & North Africa (excluding high income),Upper middle income,0.3,Baghdad,Asia,Western Asia,https://flagcdn.com/w320/iq.png,..\output\imagenes_procesadas\iq.jpg
+Ireland,IRL,2024,4298252.0,High income,High income,0.98,Dublin,Europe,Northern Europe,https://flagcdn.com/w320/ie.png,..\output\imagenes_procesadas\ie.jpg
+Israel,ISR,2024,7062352.0,High income,High income,0.89,Jerusalem,Asia,Western Asia,https://flagcdn.com/w320/il.png,..\output\imagenes_procesadas\il.jpg
+Italy,ITA,2024,51829051.0,High income,High income,0.86,Rome,Europe,Southern Europe,https://flagcdn.com/w320/it.png,..\output\imagenes_procesadas\it.jpg
+Japan,JPN,2024,110011344.0,High income,High income,0.99,Tokyo,Asia,Eastern Asia,https://flagcdn.com/w320/jp.png,..\output\imagenes_procesadas\jp.jpg
+Jordan,JOR,2024,7867178.0,Middle East & North Africa (excluding high income),Upper middle income,0.46,Amman,Asia,Western Asia,https://flagcdn.com/w320/jo.png,..\output\imagenes_procesadas\jo.jpg
+Kazakhstan,KAZ,2024,14324777.0,Europe & Central Asia (excluding high income),Upper middle income,0.87,Astana,Asia,Central Asia,https://flagcdn.com/w320/kz.png,..\output\imagenes_procesadas\kz.jpg
+Kenya,KEN,2024,34616135.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.9,Nairobi,Africa,Eastern Africa,https://flagcdn.com/w320/ke.png,..\output\imagenes_procesadas\ke.jpg
+Kosovo,XKX,2024,1382360.0,Europe & Central Asia (excluding high income),Upper middle income,0.64,Pristina,Europe,Eastern Europe,https://flagcdn.com/w320/xk.png,..\output\imagenes_procesadas\xk.jpg
+Kuwait,KWT,2024,3950546.0,High income,High income,0.74,Kuwait City,Asia,Western Asia,https://flagcdn.com/w320/kw.png,..\output\imagenes_procesadas\kw.jpg
+Latvia,LVA,2024,1582835.0,High income,High income,0.95,Riga,Europe,Northern Europe,https://flagcdn.com/w320/lv.png,..\output\imagenes_procesadas\lv.jpg
+Lebanon,LBN,2024,4231057.0,Middle East & North Africa (excluding high income),Lower middle income,0.23,Beirut,Asia,Western Asia,https://flagcdn.com/w320/lb.png,..\output\imagenes_procesadas\lb.jpg
+Lesotho,LSO,2024,1504222.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.62,Maseru,Africa,Southern Africa,https://flagcdn.com/w320/ls.png,..\output\imagenes_procesadas\ls.jpg
+Liberia,LBR,2024,3295997.0,Sub-Saharan Africa (excluding high income),Low income,0.52,Monrovia,Africa,Western Africa,https://flagcdn.com/w320/lr.png,..\output\imagenes_procesadas\lr.jpg
+Libya,LBY,2024,5262910.0,Middle East & North Africa (excluding high income),Upper middle income,0.33,Tripoli,Africa,Northern Africa,https://flagcdn.com/w320/ly.png,..\output\imagenes_procesadas\ly.jpg
+Lithuania,LTU,2024,2444088.0,High income,High income,0.99,Vilnius,Europe,Northern Europe,https://flagcdn.com/w320/lt.png,..\output\imagenes_procesadas\lt.jpg
+Madagascar,MDG,2024,18851036.0,Sub-Saharan Africa (excluding high income),Low income,0.24,Antananarivo,Africa,Eastern Africa,https://flagcdn.com/w320/mg.png,..\output\imagenes_procesadas\mg.jpg
+Malawi,MWI,2024,12384937.0,Sub-Saharan Africa (excluding high income),Low income,0.5,Lilongwe,Africa,Eastern Africa,https://flagcdn.com/w320/mw.png,..\output\imagenes_procesadas\mw.jpg
+Malaysia,MYS,2024,27297352.0,East Asia & Pacific (excluding high income),Upper middle income,0.89,Kuala Lumpur,Asia,South-Eastern Asia,https://flagcdn.com/w320/my.png,..\output\imagenes_procesadas\my.jpg
+Mali,MLI,2024,12725942.0,Sub-Saharan Africa (excluding high income),Low income,0.55,Bamako,Africa,Western Africa,https://flagcdn.com/w320/ml.png,..\output\imagenes_procesadas\ml.jpg
+Malta,MLT,2024,480050.0,High income,High income,0.97,Valletta,Europe,Southern Europe,https://flagcdn.com/w320/mt.png,..\output\imagenes_procesadas\mt.jpg
+Mauritania,MRT,2024,2860979.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.27,Nouakchott,Africa,Western Africa,https://flagcdn.com/w320/mr.png,..\output\imagenes_procesadas\mr.jpg
+Mauritius,MUS,2024,1070318.0,Sub-Saharan Africa (excluding high income),Upper middle income,0.9,Port Louis,Africa,Eastern Africa,https://flagcdn.com/w320/mu.png,..\output\imagenes_procesadas\mu.jpg
+Mexico,MEX,2024,97411242.0,Latin America & Caribbean (excluding high income),Upper middle income,0.53,Mexico City,Americas,North America,https://flagcdn.com/w320/mx.png,..\output\imagenes_procesadas\mx.jpg
+Moldova,MDA,2024,1966418.0,Europe & Central Asia (excluding high income),Upper middle income,0.56,Chișinău,Europe,Eastern Europe,https://flagcdn.com/w320/md.png,..\output\imagenes_procesadas\md.jpg
+Mongolia,MNG,2024,2344987.0,East Asia & Pacific (excluding high income),Lower middle income,0.98,Ulan Bator,Asia,Eastern Asia,https://flagcdn.com/w320/mn.png,..\output\imagenes_procesadas\mn.jpg
+Montenegro,MNE,2024,503215.0,Europe & Central Asia (excluding high income),Upper middle income,0.75,Podgorica,Europe,Southern Europe,https://flagcdn.com/w320/me.png,..\output\imagenes_procesadas\me.jpg
+Morocco,MAR,2024,27893979.0,Middle East & North Africa (excluding high income),Lower middle income,0.44,Rabat,Africa,Northern Africa,https://flagcdn.com/w320/ma.png,..\output\imagenes_procesadas\ma.jpg
+Mozambique,MOZ,2024,18581790.0,Sub-Saharan Africa (excluding high income),Low income,0.54,Maputo,Africa,Eastern Africa,https://flagcdn.com/w320/mz.png,..\output\imagenes_procesadas\mz.jpg
+Namibia,NAM,2024,1858089.0,Sub-Saharan Africa (excluding high income),Upper middle income,0.73,Windhoek,Africa,Southern Africa,https://flagcdn.com/w320/na.png,..\output\imagenes_procesadas\na.jpg
+Nepal,NPL,2024,21168213.0,South Asia (excluding high income),Lower middle income,0.6,Kathmandu,Asia,Southern Asia,https://flagcdn.com/w320/np.png,..\output\imagenes_procesadas\np.jpg
+Netherlands,NLD,2024,15164931.0,High income,High income,0.99,Amsterdam,Europe,Western Europe,https://flagcdn.com/w320/nl.png,..\output\imagenes_procesadas\nl.jpg
+New Zealand,NZL,2024,4263369.0,High income,High income,0.98,Wellington,Oceania,Australia and New Zealand,https://flagcdn.com/w320/nz.png,..\output\imagenes_procesadas\nz.jpg
+Nicaragua,NIC,2024,4830854.0,Latin America & Caribbean (excluding high income),Lower middle income,0.23,Managua,Americas,Central America,https://flagcdn.com/w320/ni.png,..\output\imagenes_procesadas\ni.jpg
+Niger,NER,2024,13873697.0,Sub-Saharan Africa (excluding high income),Low income,0.15,Niamey,Africa,Western Africa,https://flagcdn.com/w320/ne.png,..\output\imagenes_procesadas\ne.jpg
+Nigeria,NGA,2024,133329232.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.63,Abuja,Africa,Western Africa,https://flagcdn.com/w320/ng.png,..\output\imagenes_procesadas\ng.jpg
+North Macedonia,MKD,2024,1515847.0,Europe & Central Asia (excluding high income),Upper middle income,0.84,Skopje,Europe,Southern Europe,https://flagcdn.com/w320/mk.png,..\output\imagenes_procesadas\mk.jpg
+Norway,NOR,2024,4608487.0,High income,High income,0.99,Oslo,Europe,Northern Europe,https://flagcdn.com/w320/no.png,..\output\imagenes_procesadas\no.jpg
+Oman,OMN,2024,3775451.0,High income,High income,0.7,Muscat,Asia,Western Asia,https://flagcdn.com/w320/om.png,..\output\imagenes_procesadas\om.jpg
+Pakistan,PAK,2024,155833628.0,South Asia (excluding high income),Lower middle income,0.27,Islamabad,Asia,Southern Asia,https://flagcdn.com/w320/pk.png,..\output\imagenes_procesadas\pk.jpg
+Panama,PAN,2024,3331755.0,High income,High income,0.64,Panama City,Americas,Central America,https://flagcdn.com/w320/pa.png,..\output\imagenes_procesadas\pa.jpg
+Paraguay,PRY,2024,4874331.0,Latin America & Caribbean (excluding high income),Upper middle income,0.61,Asunción,Americas,South America,https://flagcdn.com/w320/py.png,..\output\imagenes_procesadas\py.jpg
+Peru,PER,2024,25601447.0,Latin America & Caribbean (excluding high income),Upper middle income,0.59,Lima,Americas,South America,https://flagcdn.com/w320/pe.png,..\output\imagenes_procesadas\pe.jpg
+Philippines,PHL,2024,82023644.0,East Asia & Pacific (excluding high income),Lower middle income,0.5,Manila,Asia,South-Eastern Asia,https://flagcdn.com/w320/ph.png,..\output\imagenes_procesadas\ph.jpg
+Poland,POL,2024,31148749.0,High income,High income,0.86,Warsaw,Europe,Central Europe,https://flagcdn.com/w320/pl.png,..\output\imagenes_procesadas\pl.jpg
+Portugal,PRT,2024,9214262.0,High income,High income,0.91,Lisbon,Europe,Southern Europe,https://flagcdn.com/w320/pt.png,..\output\imagenes_procesadas\pt.jpg
+Romania,ROU,2024,16033507.0,High income,High income,0.71,Bucharest,Europe,Eastern Europe,https://flagcdn.com/w320/ro.png,..\output\imagenes_procesadas\ro.jpg
+Russian Federation,RUS,2024,118635010.0,Europe & Central Asia (excluding high income),Upper middle income,0.79,Moscow,Europe,Eastern Europe,https://flagcdn.com/w320/ru.png,..\output\imagenes_procesadas\ru.jpg
+Saudi Arabia,SAU,2024,25248449.0,High income,High income,0.79,Riyadh,Asia,Western Asia,https://flagcdn.com/w320/sa.png,..\output\imagenes_procesadas\sa.jpg
+Senegal,SEN,2024,11094279.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.76,Dakar,Africa,Western Africa,https://flagcdn.com/w320/sn.png,..\output\imagenes_procesadas\sn.jpg
+Serbia,SRB,2024,5672737.0,Europe & Central Asia (excluding high income),Upper middle income,0.83,Belgrade,Europe,Southern Europe,https://flagcdn.com/w320/rs.png,..\output\imagenes_procesadas\rs.jpg
+Sierra Leone,SLE,2024,5200533.0,Sub-Saharan Africa (excluding high income),Low income,0.39,Freetown,Africa,Western Africa,https://flagcdn.com/w320/sl.png,..\output\imagenes_procesadas\sl.jpg
+Singapore,SGP,2024,5220107.0,High income,High income,0.98,Singapore,Asia,South-Eastern Asia,https://flagcdn.com/w320/sg.png,..\output\imagenes_procesadas\sg.jpg
+Slovenia,SVN,2024,1803880.0,High income,High income,0.99,Ljubljana,Europe,Southern Europe,https://flagcdn.com/w320/si.png,..\output\imagenes_procesadas\si.jpg
+South Africa,ZAF,2024,46723498.0,Sub-Saharan Africa (excluding high income),Upper middle income,0.81,Pretoria,Africa,Southern Africa,https://flagcdn.com/w320/za.png,..\output\imagenes_procesadas\za.jpg
+Spain,ESP,2024,41937630.0,High income,High income,0.98,Madrid,Europe,Southern Europe,https://flagcdn.com/w320/es.png,..\output\imagenes_procesadas\es.jpg
+Sri Lanka,LKA,2024,17109247.0,South Asia (excluding high income),Lower middle income,0.82,Sri Jayawardenepura Kotte,Asia,Southern Asia,https://flagcdn.com/w320/lk.png,..\output\imagenes_procesadas\lk.jpg
+Sweden,SWE,2024,8719085.0,High income,High income,0.99,Stockholm,Europe,Northern Europe,https://flagcdn.com/w320/se.png,..\output\imagenes_procesadas\se.jpg
+Switzerland,CHE,2024,7553903.0,High income,High income,0.98,Bern,Europe,Central Europe,https://flagcdn.com/w320/ch.png,..\output\imagenes_procesadas\ch.jpg
+Tajikistan,TJK,2024,6596875.0,Europe & Central Asia (excluding high income),Lower middle income,0.55,Dushanbe,Asia,Central Asia,https://flagcdn.com/w320/tj.png,..\output\imagenes_procesadas\tj.jpg
+Tanzania,TZA,2024,38155970.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.6,Dodoma,Africa,Eastern Africa,https://flagcdn.com/w320/tz.png,..\output\imagenes_procesadas\tz.jpg
+Thailand,THA,2024,60882768.0,East Asia & Pacific (excluding high income),Upper middle income,0.92,Bangkok,Asia,South-Eastern Asia,https://flagcdn.com/w320/th.png,..\output\imagenes_procesadas\th.jpg
+Togo,TGO,2024,5593530.0,Sub-Saharan Africa (excluding high income),Low income,0.57,Lomé,Africa,Western Africa,https://flagcdn.com/w320/tg.png,..\output\imagenes_procesadas\tg.jpg
+Trinidad and Tobago,TTO,2024,1120989.0,High income,High income,0.75,Port of Spain,Americas,Caribbean,https://flagcdn.com/w320/tt.png,..\output\imagenes_procesadas\tt.jpg
+Tunisia,TUN,2024,9219268.0,Middle East & North Africa (excluding high income),Lower middle income,0.38,Tunis,Africa,Northern Africa,https://flagcdn.com/w320/tn.png,..\output\imagenes_procesadas\tn.jpg
+Uganda,UGA,2024,27277834.0,Sub-Saharan Africa (excluding high income),Low income,0.73,Kampala,Africa,Eastern Africa,https://flagcdn.com/w320/ug.png,..\output\imagenes_procesadas\ug.jpg
+Ukraine,UKR,2024,32338724.0,Europe & Central Asia (excluding high income),Lower middle income,0.88,Kyiv,Europe,Eastern Europe,https://flagcdn.com/w320/ua.png,..\output\imagenes_procesadas\ua.jpg
+United Kingdom,GBR,2024,56450851.0,High income,High income,0.99,London,Europe,Northern Europe,https://flagcdn.com/w320/gb.png,..\output\imagenes_procesadas\gb.jpg
+United States,USA,2024,275987833.0,High income,High income,0.97,,Americas,Northern America,https://flagcdn.com/w320/um.png,..\output\imagenes_procesadas\um.jpg
+Uruguay,URY,2024,2755004.0,High income,High income,0.74,Montevideo,Americas,South America,https://flagcdn.com/w320/uy.png,..\output\imagenes_procesadas\uy.jpg
+Uzbekistan,UZB,2024,24646062.0,Europe & Central Asia (excluding high income),Lower middle income,0.6,Tashkent,Asia,Central Asia,https://flagcdn.com/w320/uz.png,..\output\imagenes_procesadas\uz.jpg
+Zambia,ZMB,2024,12029200.0,Sub-Saharan Africa (excluding high income),Low income,0.73,Lusaka,Africa,Eastern Africa,https://flagcdn.com/w320/zm.png,..\output\imagenes_procesadas\zm.jpg
+Zimbabwe,ZWE,2024,9588258.0,Sub-Saharan Africa (excluding high income),Lower middle income,0.5,Harare,Africa,Southern Africa,https://flagcdn.com/w320/zw.png,..\output\imagenes_procesadas\zw.jpg
