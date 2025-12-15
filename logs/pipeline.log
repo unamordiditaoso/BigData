@@ -1,0 +1,5 @@
+[OK] CSV leído correctamente: 8564 filas, 7 columnas
+[OK] API REST Countries obtenida: 250 filas
+[INFO] Países sin información en API: 0
+[OK] CSV final guardado: ../output/paisesFinal.csv
+[OK] Datos cargados correctamente en ..\data\bd\paises.db en la tabla 'countries_data'

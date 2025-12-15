@@ -1,0 +1,62 @@
+1️⃣ Caso de uso (Elige un caso de uso y explícalo (e.g., parque eólico, logística, movilidad))
+    - Descripción: Integración de datos de países para un proyecto Big Data.
+    - Objetivo: Crear una pipeline de datos que consolide información desde archivos locales (XLSX/CSV), API REST y imágenes de banderas, normalizando y transformando los datos para su posterior análisis.
+    - Justificación: Este caso de uso permite aplicar conceptos de integración de diferentes estructuras y formatos de datos, transformación de datos, y metodologías DataOps en un ejemplo realista y manejable.
+
+2️⃣ Esquema gráfico de la arquitectura (Esquema gráfico de la arquitectura utilizada.)
+    - Puedes incluir un diagrama tipo flujo como este:
+
+        XLSX Indicadores   ─┐
+        CSV Transformado    ├─> Extract → Transform → Validate → Load → SQLite
+        REST API Countries ─┘
+        Imágenes banderas  ─┘ (procesadas y asociadas mediante nombres)
+
+    - Muestra claramente cómo los datos de diferentes fuentes se integran en un único dataset.
+
+3️⃣ Explicación de la arquitectura (Explicación de la arquitectura (e.g. ETL, ELT))
+    - ETL clásico aplicado:
+        - Extract: Leer datos de XLSX/CSV, API REST y carpetas de imágenes.
+        - Transform: Normalización de nombres, limpieza de columnas, conversión de porcentajes, transformación de imágenes (resizing y formato).
+        - Load: Carga final en SQLite para análisis posterior.
+    - Metodología DataOps:
+        - Uso de scripts reproducibles, logs de validación, y pipeline modular que permite actualizar y depurar datos de manera controlada.
+
+4️⃣ Explicación de los componentes (Explicación breve de los componentes haciendo hincapié en las partes de la teoría que se han utilizado.)
+    - Datos estructurados: XLSX/CSV de indicadores de países.
+    - Datos semi-estructurados: API REST (JSON).
+    - Datos no estructurados: Imágenes de banderas (PNG/JPG).
+    - Transformaciones clave:
+        - Conversión de porcentajes en números.
+        - Normalización de nombres de país para unir fuentes.
+        - Redimensionamiento y renombrado de imágenes.
+    - Calidad de datos:
+        - Eliminación de duplicados.
+        - Rellenado de datos faltantes con coincidencias parciales de nombres.
+
+5️⃣ Extras implementados (Extras que completan la práctica no directamente relacionados con el capítulo de integración (e.g., visualización, base de datos, seguridad))
+    - Visualización interactiva en consola:
+    - Script que permite buscar un país por nombre.
+    - Muestra información relevante sin columnas de rutas o URLs de banderas.
+    - Formato legible con separador de miles en estilo europeo (38.000).
+    - Visualización de banderas:
+    - OpenCV muestra la bandera asociada al país en una ventana frontal.
+
+6️⃣ Líneas de mejora (Líneas de mejora que no se han podido implementar, pero sí se han considerado.)
+    - Carga a bases de datos PostgreSQL: Actualmente se usa SQLite local, pero podría migrarse a PostgreSQL para proyectos más grandes.
+    - Integración MQTT: Podría permitir recibir datos en tiempo real de APIs o sensores externos.
+    - Gestión de errores y automatización avanzada: Uso de herramientas de DataOps más completas (Airflow, Prefect) para ejecución periódica y monitorización.
+
+7️⃣ Modo de uso de la implementación (Justifica el modo de uso de la implementación (manual, periódica).)
+    - Manual:
+        - Ejecutar script principal (pipelinePaises.py) para procesar y cargar datos.
+        - Ejecutar script de búsqueda de país para visualizar información y bandera.
+
+    - Periódico:
+        - Posible automatización mediante task scheduler o cron jobs.
+
+8️⃣ Pantallazos / evidencias (Pantallazos que justifiquen el flujo de trabajo.)
+    - CSV leído y transformado.
+    - Integración de API REST y coincidencias parciales de nombres.
+    - Asociación de imágenes locales con los países.
+    - Visualización de país y bandera en consola/OpenCV.
+    - Log de validaciones (filas sin información, duplicados eliminados).

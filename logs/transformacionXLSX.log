@@ -1,0 +1,13 @@
+Excel leido correctamente, filas: 8564, columnas: 465
+Valores faltantes por columna:
+countrynewwb         0
+codewb               0
+year                 0
+pop_adult          684
+regionwb24_hi      684
+incomegroupwb24    684
+account.t.d         90
+dtype: int64
+Filas duplicadas por codewb + year: 7793
+Filas con valores invalidos (populacion <= 0): 0
+Archivo limpio guardado en: ../data/paisesProcesados.csv

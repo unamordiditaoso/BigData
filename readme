@@ -1,0 +1,6 @@
+1. Importar librerías: pip install Pillow pandas requests opencv-python tabulate
+2. Ejecutar transformación de Imagenes: python transformImagenes.py
+3. Ejecutar transformación de Excel: python transformXlsxPaises.py
+4. Ejecutar Pipeline principal: python pipelinePaises.py
+5. Ejecutar visualización de Datos: python visualizacionPais.py
+5.1. Poner país de ejemplo para visualizar: GERMANY
